@@ -398,9 +398,9 @@
 |||woman in lotus position|394|
 |bath|:bath:|person taking bath|395|
 |sleeping_bed|:sleeping_bed:|person in bed|396|
-|two_women_holding_hands|:two_women_holding_hands:|two women holding hands|397|
-|couple|:couple:|man and woman holding hands|398|
-|two_men_holding_hands|:two_men_holding_hands:|two men holding hands|399|
+|two_women_holding_hands|:two_women_holding_hands:|women holding hands|397|
+|couple|:couple:|woman and man holding hands|398|
+|two_men_holding_hands|:two_men_holding_hands:|men holding hands|399|
 |couplekiss_man_woman|:couplekiss_man_woman:|kiss|400|
 |couplekiss_man_man|:couplekiss_man_man:|kiss: woman, man|401|
 |couplekiss_man_man|:couplekiss_man_man:|kiss: man, man|402|
