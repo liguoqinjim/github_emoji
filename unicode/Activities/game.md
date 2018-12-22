@@ -10,7 +10,7 @@
 |joystick|:joystick:|joystick|936|
 |slot_machine|:slot_machine:|slot machine|937|
 |game_die|:game_die:|game die|938|
-|||⊛ jigsaw|939|
+|||⊛ puzzle piece|939|
 |||⊛ teddy bear|940|
 |spades|:spades:|spade suit|941|
 |hearts|:hearts:|heart suit|942|

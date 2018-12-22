@@ -155,7 +155,7 @@
 |mali|:mali:|flag: Mali|1534|
 |myanmar|:myanmar:|flag: Myanmar (Burma)|1535|
 |mongolia|:mongolia:|flag: Mongolia|1536|
-|macau|:macau:|flag: Macau SAR China|1537|
+|macau|:macau:|flag: Macao SAR China|1537|
 |northern_mariana_islands|:northern_mariana_islands:|flag: Northern Mariana Islands|1538|
 |martinique|:martinique:|flag: Martinique|1539|
 |mauritania|:mauritania:|flag: Mauritania|1540|
@@ -220,7 +220,7 @@
 |el_salvador|:el_salvador:|flag: El Salvador|1599|
 |sint_maarten|:sint_maarten:|flag: Sint Maarten|1600|
 |syria|:syria:|flag: Syria|1601|
-|swaziland|:swaziland:|flag: Swaziland|1602|
+|swaziland|:swaziland:|flag: Eswatini|1602|
 |||flag: Tristan da Cunha|1603|
 |turks_caicos_islands|:turks_caicos_islands:|flag: Turks & Caicos Islands|1604|
 |chad|:chad:|flag: Chad|1605|

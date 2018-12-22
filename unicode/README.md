@@ -15,7 +15,7 @@
 |wink|:wink:|winking face|11|
 |blush|:blush:|smiling face with smiling eyes|12|
 |innocent|:innocent:|smiling face with halo|13|
-|||⊛ smiling face with 3 hearts|14|
+|||⊛ smiling face with hearts|14|
 |heart_eyes|:heart_eyes:|smiling face with heart-eyes|15|
 |||star-struck|16|
 |kissing_heart|:kissing_heart:|face blowing a kiss|17|
@@ -102,16 +102,16 @@
 |ghost|:ghost:|ghost|98|
 |alien|:alien:|alien|99|
 |space_invader|:space_invader:|alien monster|100|
-|robot|:robot:|robot face|101|
-|smiley_cat|:smiley_cat:|grinning cat face|102|
-|smile_cat|:smile_cat:|grinning cat face with smiling eyes|103|
-|joy_cat|:joy_cat:|cat face with tears of joy|104|
-|heart_eyes_cat|:heart_eyes_cat:|smiling cat face with heart-eyes|105|
-|smirk_cat|:smirk_cat:|cat face with wry smile|106|
-|kissing_cat|:kissing_cat:|kissing cat face|107|
-|scream_cat|:scream_cat:|weary cat face|108|
-|crying_cat_face|:crying_cat_face:|crying cat face|109|
-|pouting_cat|:pouting_cat:|pouting cat face|110|
+|robot|:robot:|robot|101|
+|smiley_cat|:smiley_cat:|grinning cat|102|
+|smile_cat|:smile_cat:|grinning cat with smiling eyes|103|
+|joy_cat|:joy_cat:|cat with tears of joy|104|
+|heart_eyes_cat|:heart_eyes_cat:|smiling cat with heart-eyes|105|
+|smirk_cat|:smirk_cat:|cat with wry smile|106|
+|kissing_cat|:kissing_cat:|kissing cat|107|
+|scream_cat|:scream_cat:|weary cat|108|
+|crying_cat_face|:crying_cat_face:|crying cat|109|
+|pouting_cat|:pouting_cat:|pouting cat|110|
 |see_no_evil|:see_no_evil:|see-no-evil monkey|111|
 |hear_no_evil|:hear_no_evil:|hear-no-evil monkey|112|
 |speak_no_evil|:speak_no_evil:|speak-no-evil monkey|113|
@@ -125,7 +125,7 @@
 |revolving_hearts|:revolving_hearts:|revolving hearts|121|
 |two_hearts|:two_hearts:|two hearts|122|
 |heart_decoration|:heart_decoration:|heart decoration|123|
-|heavy_heart_exclamation|:heavy_heart_exclamation:|heavy heart exclamation|124|
+|heavy_heart_exclamation|:heavy_heart_exclamation:|heart exclamation|124|
 |broken_heart|:broken_heart:|broken heart|125|
 |heart|:heart:|red heart|126|
 |||orange heart|127|
@@ -199,12 +199,12 @@
 |||person|195|
 |blonde_man|:blonde_man:|person: blond hair|196|
 |man|:man:|man|197|
-|||man: blond hair|198|
-|||⊛ man: red hair|199|
-|||⊛ man: curly hair|200|
-|||⊛ man: white hair|201|
-|||⊛ man: bald|202|
-|||man: beard|203|
+|||man: beard|198|
+|||man: blond hair|199|
+|||⊛ man: red hair|200|
+|||⊛ man: curly hair|201|
+|||⊛ man: white hair|202|
+|||⊛ man: bald|203|
 |woman|:woman:|woman|204|
 |blonde_woman|:blonde_woman:|woman: blond hair|205|
 |||⊛ woman: red hair|206|
@@ -449,18 +449,18 @@
 |dog|:dog:|dog face|445|
 |dog2|:dog2:|dog|446|
 |poodle|:poodle:|poodle|447|
-|wolf|:wolf:|wolf face|448|
-|fox_face|:fox_face:|fox face|449|
+|wolf|:wolf:|wolf|448|
+|fox_face|:fox_face:|fox|449|
 |||⊛ raccoon|450|
 |cat|:cat:|cat face|451|
 |cat2|:cat2:|cat|452|
-|lion|:lion:|lion face|453|
+|lion|:lion:|lion|453|
 |tiger|:tiger:|tiger face|454|
 |tiger2|:tiger2:|tiger|455|
 |leopard|:leopard:|leopard|456|
 |horse|:horse:|horse face|457|
 |racehorse|:racehorse:|horse|458|
-|unicorn|:unicorn:|unicorn face|459|
+|unicorn|:unicorn:|unicorn|459|
 |||zebra|460|
 |deer|:deer:|deer|461|
 |cow|:cow:|cow face|462|
@@ -484,15 +484,15 @@
 |mouse|:mouse:|mouse face|480|
 |mouse2|:mouse2:|mouse|481|
 |rat|:rat:|rat|482|
-|hamster|:hamster:|hamster face|483|
+|hamster|:hamster:|hamster|483|
 |rabbit|:rabbit:|rabbit face|484|
 |rabbit2|:rabbit2:|rabbit|485|
 |chipmunk|:chipmunk:|chipmunk|486|
 |||hedgehog|487|
 |bat|:bat:|bat|488|
-|bear|:bear:|bear face|489|
+|bear|:bear:|bear|489|
 |koala|:koala:|koala|490|
-|panda_face|:panda_face:|panda face|491|
+|panda_face|:panda_face:|panda|491|
 |||⊛ kangaroo|492|
 |||⊛ badger|493|
 |feet|:feet:|paw prints|494|
@@ -511,7 +511,7 @@
 |owl|:owl:|owl|507|
 |||⊛ peacock|508|
 |||⊛ parrot|509|
-|frog|:frog:|frog face|510|
+|frog|:frog:|frog|510|
 |crocodile|:crocodile:|crocodile|511|
 |turtle|:turtle:|turtle|512|
 |lizard|:lizard:|lizard|513|
@@ -940,7 +940,7 @@
 |joystick|:joystick:|joystick|936|
 |slot_machine|:slot_machine:|slot machine|937|
 |game_die|:game_die:|game die|938|
-|||⊛ jigsaw|939|
+|||⊛ puzzle piece|939|
 |||⊛ teddy bear|940|
 |spades|:spades:|spade suit|941|
 |hearts|:hearts:|heart suit|942|
@@ -1278,16 +1278,16 @@
 |trident|:trident:|trident emblem|1274|
 |name_badge|:name_badge:|name badge|1275|
 |beginner|:beginner:|Japanese symbol for beginner|1276|
-|o|:o:|heavy large circle|1277|
-|white_check_mark|:white_check_mark:|white heavy check mark|1278|
-|ballot_box_with_check|:ballot_box_with_check:|ballot box with check|1279|
-|heavy_check_mark|:heavy_check_mark:|heavy check mark|1280|
-|heavy_multiplication_x|:heavy_multiplication_x:|heavy multiplication x|1281|
+|o|:o:|hollow red circle|1277|
+|white_check_mark|:white_check_mark:|check mark button|1278|
+|ballot_box_with_check|:ballot_box_with_check:|check box with check|1279|
+|heavy_check_mark|:heavy_check_mark:|check mark|1280|
+|heavy_multiplication_x|:heavy_multiplication_x:|multiplication sign|1281|
 |x|:x:|cross mark|1282|
 |negative_squared_cross_mark|:negative_squared_cross_mark:|cross mark button|1283|
-|heavy_plus_sign|:heavy_plus_sign:|heavy plus sign|1284|
-|heavy_minus_sign|:heavy_minus_sign:|heavy minus sign|1285|
-|heavy_division_sign|:heavy_division_sign:|heavy division sign|1286|
+|heavy_plus_sign|:heavy_plus_sign:|plus sign|1284|
+|heavy_minus_sign|:heavy_minus_sign:|minus sign|1285|
+|heavy_division_sign|:heavy_division_sign:|division sign|1286|
 |curly_loop|:curly_loop:|curly loop|1287|
 |loop|:loop:|double curly loop|1288|
 |part_alternation_mark|:part_alternation_mark:|part alternation mark|1289|
@@ -1538,7 +1538,7 @@
 |mali|:mali:|flag: Mali|1534|
 |myanmar|:myanmar:|flag: Myanmar (Burma)|1535|
 |mongolia|:mongolia:|flag: Mongolia|1536|
-|macau|:macau:|flag: Macau SAR China|1537|
+|macau|:macau:|flag: Macao SAR China|1537|
 |northern_mariana_islands|:northern_mariana_islands:|flag: Northern Mariana Islands|1538|
 |martinique|:martinique:|flag: Martinique|1539|
 |mauritania|:mauritania:|flag: Mauritania|1540|
@@ -1603,7 +1603,7 @@
 |el_salvador|:el_salvador:|flag: El Salvador|1599|
 |sint_maarten|:sint_maarten:|flag: Sint Maarten|1600|
 |syria|:syria:|flag: Syria|1601|
-|swaziland|:swaziland:|flag: Swaziland|1602|
+|swaziland|:swaziland:|flag: Eswatini|1602|
 |||flag: Tristan da Cunha|1603|
 |turks_caicos_islands|:turks_caicos_islands:|flag: Turks & Caicos Islands|1604|
 |chad|:chad:|flag: Chad|1605|

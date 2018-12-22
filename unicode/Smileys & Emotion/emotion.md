@@ -12,7 +12,7 @@
 |revolving_hearts|:revolving_hearts:|revolving hearts|121|
 |two_hearts|:two_hearts:|two hearts|122|
 |heart_decoration|:heart_decoration:|heart decoration|123|
-|heavy_heart_exclamation|:heavy_heart_exclamation:|heavy heart exclamation|124|
+|heavy_heart_exclamation|:heavy_heart_exclamation:|heart exclamation|124|
 |broken_heart|:broken_heart:|broken heart|125|
 |heart|:heart:|red heart|126|
 |||orange heart|127|

@@ -9,16 +9,16 @@
 |trident|:trident:|trident emblem|1274|
 |name_badge|:name_badge:|name badge|1275|
 |beginner|:beginner:|Japanese symbol for beginner|1276|
-|o|:o:|heavy large circle|1277|
-|white_check_mark|:white_check_mark:|white heavy check mark|1278|
-|ballot_box_with_check|:ballot_box_with_check:|ballot box with check|1279|
-|heavy_check_mark|:heavy_check_mark:|heavy check mark|1280|
-|heavy_multiplication_x|:heavy_multiplication_x:|heavy multiplication x|1281|
+|o|:o:|hollow red circle|1277|
+|white_check_mark|:white_check_mark:|check mark button|1278|
+|ballot_box_with_check|:ballot_box_with_check:|check box with check|1279|
+|heavy_check_mark|:heavy_check_mark:|check mark|1280|
+|heavy_multiplication_x|:heavy_multiplication_x:|multiplication sign|1281|
 |x|:x:|cross mark|1282|
 |negative_squared_cross_mark|:negative_squared_cross_mark:|cross mark button|1283|
-|heavy_plus_sign|:heavy_plus_sign:|heavy plus sign|1284|
-|heavy_minus_sign|:heavy_minus_sign:|heavy minus sign|1285|
-|heavy_division_sign|:heavy_division_sign:|heavy division sign|1286|
+|heavy_plus_sign|:heavy_plus_sign:|plus sign|1284|
+|heavy_minus_sign|:heavy_minus_sign:|minus sign|1285|
+|heavy_division_sign|:heavy_division_sign:|division sign|1286|
 |curly_loop|:curly_loop:|curly loop|1287|
 |loop|:loop:|double curly loop|1288|
 |part_alternation_mark|:part_alternation_mark:|part alternation mark|1289|

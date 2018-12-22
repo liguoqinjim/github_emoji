@@ -9,12 +9,12 @@
 |||person|195|
 |blonde_man|:blonde_man:|person: blond hair|196|
 |man|:man:|man|197|
-|||man: blond hair|198|
-|||⊛ man: red hair|199|
-|||⊛ man: curly hair|200|
-|||⊛ man: white hair|201|
-|||⊛ man: bald|202|
-|||man: beard|203|
+|||man: beard|198|
+|||man: blond hair|199|
+|||⊛ man: red hair|200|
+|||⊛ man: curly hair|201|
+|||⊛ man: white hair|202|
+|||⊛ man: bald|203|
 |woman|:woman:|woman|204|
 |blonde_woman|:blonde_woman:|woman: blond hair|205|
 |||⊛ woman: red hair|206|

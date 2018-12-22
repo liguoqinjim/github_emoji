@@ -9,4 +9,4 @@
 |ghost|:ghost:|ghost|98|
 |alien|:alien:|alien|99|
 |space_invader|:space_invader:|alien monster|100|
-|robot|:robot:|robot face|101|
+|robot|:robot:|robot|101|
