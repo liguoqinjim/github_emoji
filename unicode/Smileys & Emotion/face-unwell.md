@@ -8,8 +8,8 @@
 |nauseated_face|:nauseated_face:|nauseated face|50|
 |||face vomiting|51|
 |sneezing_face|:sneezing_face:|sneezing face|52|
-|||⊛ hot face|53|
-|||⊛ cold face|54|
-|||⊛ woozy face|55|
+|||hot face|53|
+|||cold face|54|
+|||woozy face|55|
 |dizzy_face|:dizzy_face:|dizzy face|56|
 |||exploding head|57|

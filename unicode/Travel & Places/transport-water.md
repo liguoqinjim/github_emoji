@@ -2,11 +2,11 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|anchor|:anchor:|anchor|780|
-|boat|:boat:|sailboat|781|
-|canoe|:canoe:|canoe|782|
-|speedboat|:speedboat:|speedboat|783|
-|passenger_ship|:passenger_ship:|passenger ship|784|
-|ferry|:ferry:|ferry|785|
-|motor_boat|:motor_boat:|motor boat|786|
-|ship|:ship:|ship|787|
+|anchor|:anchor:|anchor|822|
+|boat|:boat:|sailboat|823|
+|canoe|:canoe:|canoe|824|
+|speedboat|:speedboat:|speedboat|825|
+|passenger_ship|:passenger_ship:|passenger ship|826|
+|ferry|:ferry:|ferry|827|
+|motor_boat|:motor_boat:|motor boat|828|
+|ship|:ship:|ship|829|

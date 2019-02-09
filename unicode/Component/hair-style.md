@@ -2,7 +2,7 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|||⊛ red hair|438|
-|||⊛ curly hair|439|
-|||⊛ white hair|440|
-|||⊛ bald|441|
+|||red hair|461|
+|||curly hair|462|
+|||white hair|463|
+|||bald|464|

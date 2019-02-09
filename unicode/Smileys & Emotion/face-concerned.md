@@ -10,7 +10,7 @@
 |hushed|:hushed:|hushed face|68|
 |astonished|:astonished:|astonished face|69|
 |flushed|:flushed:|flushed face|70|
-|||⊛ pleading face|71|
+|||pleading face|71|
 |frowning|:frowning:|frowning face with open mouth|72|
 |anguished|:anguished:|anguished face|73|
 |fearful|:fearful:|fearful face|74|
@@ -25,3 +25,4 @@
 |sweat|:sweat:|downcast face with sweat|83|
 |weary|:weary:|weary face|84|
 |tired_face|:tired_face:|tired face|85|
+|||⊛ yawning face|86|

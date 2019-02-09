@@ -2,36 +2,38 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|kiss|:kiss:|kiss mark|114|
-|love_letter|:love_letter:|love letter|115|
-|cupid|:cupid:|heart with arrow|116|
-|gift_heart|:gift_heart:|heart with ribbon|117|
-|sparkling_heart|:sparkling_heart:|sparkling heart|118|
-|heartpulse|:heartpulse:|growing heart|119|
-|heartbeat|:heartbeat:|beating heart|120|
-|revolving_hearts|:revolving_hearts:|revolving hearts|121|
-|two_hearts|:two_hearts:|two hearts|122|
-|heart_decoration|:heart_decoration:|heart decoration|123|
-|heavy_heart_exclamation|:heavy_heart_exclamation:|heart exclamation|124|
-|broken_heart|:broken_heart:|broken heart|125|
-|heart|:heart:|red heart|126|
-|||orange heart|127|
-|yellow_heart|:yellow_heart:|yellow heart|128|
-|green_heart|:green_heart:|green heart|129|
-|blue_heart|:blue_heart:|blue heart|130|
-|purple_heart|:purple_heart:|purple heart|131|
-|black_heart|:black_heart:|black heart|132|
-|100|:100:|hundred points|133|
-|anger|:anger:|anger symbol|134|
-|boom|:boom:|collision|135|
-|dizzy|:dizzy:|dizzy|136|
-|sweat_drops|:sweat_drops:|sweat droplets|137|
-|dash|:dash:|dashing away|138|
-|hole|:hole:|hole|139|
-|bomb|:bomb:|bomb|140|
-|speech_balloon|:speech_balloon:|speech balloon|141|
-|eye_speech_bubble|:eye_speech_bubble:|eye in speech bubble|142|
-|||left speech bubble|143|
-|right_anger_bubble|:right_anger_bubble:|right anger bubble|144|
-|thought_balloon|:thought_balloon:|thought balloon|145|
-|zzz|:zzz:|zzz|146|
+|kiss|:kiss:|kiss mark|115|
+|love_letter|:love_letter:|love letter|116|
+|cupid|:cupid:|heart with arrow|117|
+|gift_heart|:gift_heart:|heart with ribbon|118|
+|sparkling_heart|:sparkling_heart:|sparkling heart|119|
+|heartpulse|:heartpulse:|growing heart|120|
+|heartbeat|:heartbeat:|beating heart|121|
+|revolving_hearts|:revolving_hearts:|revolving hearts|122|
+|two_hearts|:two_hearts:|two hearts|123|
+|heart_decoration|:heart_decoration:|heart decoration|124|
+|heavy_heart_exclamation|:heavy_heart_exclamation:|heart exclamation|125|
+|broken_heart|:broken_heart:|broken heart|126|
+|heart|:heart:|red heart|127|
+|||orange heart|128|
+|yellow_heart|:yellow_heart:|yellow heart|129|
+|green_heart|:green_heart:|green heart|130|
+|blue_heart|:blue_heart:|blue heart|131|
+|purple_heart|:purple_heart:|purple heart|132|
+|||⊛ brown heart|133|
+|black_heart|:black_heart:|black heart|134|
+|||⊛ white heart|135|
+|100|:100:|hundred points|136|
+|anger|:anger:|anger symbol|137|
+|boom|:boom:|collision|138|
+|dizzy|:dizzy:|dizzy|139|
+|sweat_drops|:sweat_drops:|sweat droplets|140|
+|dash|:dash:|dashing away|141|
+|hole|:hole:|hole|142|
+|bomb|:bomb:|bomb|143|
+|speech_balloon|:speech_balloon:|speech balloon|144|
+|eye_speech_bubble|:eye_speech_bubble:|eye in speech bubble|145|
+|||left speech bubble|146|
+|right_anger_bubble|:right_anger_bubble:|right anger bubble|147|
+|thought_balloon|:thought_balloon:|thought balloon|148|
+|zzz|:zzz:|zzz|149|
