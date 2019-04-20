@@ -707,7 +707,7 @@
 |||cup with straw|703|
 |||⊛ beverage box|704|
 |||⊛ mate|705|
-|||⊛ ice cube|706|
+|||⊛ ice|706|
 |||chopsticks|707|
 |plate_with_cutlery|:plate_with_cutlery:|fork and knife with plate|708|
 |fork_and_knife|:fork_and_knife:|fork and knife|709|
@@ -1609,7 +1609,7 @@
 |||flag: St. Martin|1605|
 |madagascar|:madagascar:|flag: Madagascar|1606|
 |marshall_islands|:marshall_islands:|flag: Marshall Islands|1607|
-|macedonia|:macedonia:|flag: Macedonia|1608|
+|macedonia|:macedonia:|flag: North Macedonia|1608|
 |mali|:mali:|flag: Mali|1609|
 |myanmar|:myanmar:|flag: Myanmar (Burma)|1610|
 |mongolia|:mongolia:|flag: Mongolia|1611|

@@ -151,7 +151,7 @@
 |||flag: St. Martin|1605|
 |madagascar|:madagascar:|flag: Madagascar|1606|
 |marshall_islands|:marshall_islands:|flag: Marshall Islands|1607|
-|macedonia|:macedonia:|flag: Macedonia|1608|
+|macedonia|:macedonia:|flag: North Macedonia|1608|
 |mali|:mali:|flag: Mali|1609|
 |myanmar|:myanmar:|flag: Myanmar (Burma)|1610|
 |mongolia|:mongolia:|flag: Mongolia|1611|

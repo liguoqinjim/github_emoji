@@ -18,4 +18,4 @@
 |||cup with straw|703|
 |||⊛ beverage box|704|
 |||⊛ mate|705|
-|||⊛ ice cube|706|
+|||⊛ ice|706|
