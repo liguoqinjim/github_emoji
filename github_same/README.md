@@ -65,6 +65,7 @@
 |hocho|:hocho:|https://github.githubassets.com/images/icons/emoji/unicode/1f52a.png?v8|
 |knife|:knife:|https://github.githubassets.com/images/icons/emoji/unicode/1f52a.png?v8|
 |information_desk_person|:information_desk_person:|https://github.githubassets.com/images/icons/emoji/unicode/1f481.png?v8|
+|sassy_woman|:sassy_woman:|https://github.githubassets.com/images/icons/emoji/unicode/1f481.png?v8|
 |tipping_hand_woman|:tipping_hand_woman:|https://github.githubassets.com/images/icons/emoji/unicode/1f481.png?v8|
 |izakaya_lantern|:izakaya_lantern:|https://github.githubassets.com/images/icons/emoji/unicode/1f3ee.png?v8|
 |lantern|:lantern:|https://github.githubassets.com/images/icons/emoji/unicode/1f3ee.png?v8|
@@ -101,6 +102,8 @@
 |runner|:runner:|https://github.githubassets.com/images/icons/emoji/unicode/1f3c3.png?v8|
 |running|:running:|https://github.githubassets.com/images/icons/emoji/unicode/1f3c3.png?v8|
 |running_man|:running_man:|https://github.githubassets.com/images/icons/emoji/unicode/1f3c3.png?v8|
+|sassy_man|:sassy_man:|https://github.githubassets.com/images/icons/emoji/unicode/1f481-2642.png?v8|
+|tipping_hand_man|:tipping_hand_man:|https://github.githubassets.com/images/icons/emoji/unicode/1f481-2642.png?v8|
 |shirt|:shirt:|https://github.githubassets.com/images/icons/emoji/unicode/1f455.png?v8|
 |tshirt|:tshirt:|https://github.githubassets.com/images/icons/emoji/unicode/1f455.png?v8|
 |surfer|:surfer:|https://github.githubassets.com/images/icons/emoji/unicode/1f3c4.png?v8|

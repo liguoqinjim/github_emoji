@@ -1145,6 +1145,8 @@
 |sandal|:sandal:|https://github.githubassets.com/images/icons/emoji/unicode/1f461.png?v8|
 |santa|:santa:|https://github.githubassets.com/images/icons/emoji/unicode/1f385.png?v8|
 |sao_tome_principe|:sao_tome_principe:|https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1f9.png?v8|
+|sassy_man|:sassy_man:|https://github.githubassets.com/images/icons/emoji/unicode/1f481-2642.png?v8|
+|sassy_woman|:sassy_woman:|https://github.githubassets.com/images/icons/emoji/unicode/1f481.png?v8|
 |satellite|:satellite:|https://github.githubassets.com/images/icons/emoji/unicode/1f4e1.png?v8|
 |satisfied|:satisfied:|https://github.githubassets.com/images/icons/emoji/unicode/1f606.png?v8|
 |saudi_arabia|:saudi_arabia:|https://github.githubassets.com/images/icons/emoji/unicode/1f1f8-1f1e6.png?v8|

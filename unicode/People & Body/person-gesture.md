@@ -15,7 +15,7 @@
 |ok_man|:ok_man:|man gesturing OK|230|
 |||woman gesturing OK|231|
 |information_desk_person|:information_desk_person:|person tipping hand|232|
-|tipping_hand_man|:tipping_hand_man:|man tipping hand|233|
+|sassy_man|:sassy_man:|man tipping hand|233|
 |||woman tipping hand|234|
 |raising_hand|:raising_hand:|person raising hand|235|
 |raising_hand_man|:raising_hand_man:|man raising hand|236|
