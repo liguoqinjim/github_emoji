@@ -1079,7 +1079,7 @@
 |fax|:fax:|fax machine|1075|
 |battery|:battery:|battery|1076|
 |electric_plug|:electric_plug:|electric plug|1077|
-|computer|:computer:|laptop computer|1078|
+|computer|:computer:|laptop|1078|
 |desktop_computer|:desktop_computer:|desktop computer|1079|
 |printer|:printer:|printer|1080|
 |keyboard|:keyboard:|keyboard|1081|
@@ -1718,6 +1718,6 @@
 |south_africa|:south_africa:|flag: South Africa|1714|
 |zambia|:zambia:|flag: Zambia|1715|
 |zimbabwe|:zimbabwe:|flag: Zimbabwe|1716|
-|||flag: England|1717|
-|||flag: Scotland|1718|
-|||flag: Wales|1719|
+|||flag: ⊖gbeng|1717|
+|||flag: ⊖gbsct|1718|
+|||flag: ⊖gbwls|1719|
