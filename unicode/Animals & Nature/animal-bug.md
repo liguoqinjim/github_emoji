@@ -2,15 +2,15 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|snail|:snail:|snail|558|
-|butterfly|:butterfly:|butterfly|559|
-|bug|:bug:|bug|560|
-|ant|:ant:|ant|561|
-|bee|:bee:|honeybee|562|
-|beetle|:beetle:|lady beetle|563|
-|||cricket|564|
-|spider|:spider:|spider|565|
-|spider_web|:spider_web:|spider web|566|
-|scorpion|:scorpion:|scorpion|567|
-|||mosquito|568|
-|||microbe|569|
+|snail|:snail:|snail|581|
+|butterfly|:butterfly:|butterfly|582|
+|bug|:bug:|bug|583|
+|ant|:ant:|ant|584|
+|bee|:bee:|honeybee|585|
+|beetle|:beetle:|lady beetle|586|
+|||cricket|587|
+|spider|:spider:|spider|588|
+|spider_web|:spider_web:|spider web|589|
+|scorpion|:scorpion:|scorpion|590|
+|||mosquito|591|
+|||microbe|592|

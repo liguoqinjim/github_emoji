@@ -3,7 +3,7 @@
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
 |ok_hand|:ok_hand:|OK hand|155|
-|||⊛ pinching hand|156|
+|||pinching hand|156|
 |v|:v:|victory hand|157|
 |crossed_fingers|:crossed_fingers:|crossed fingers|158|
 |||love-you gesture|159|

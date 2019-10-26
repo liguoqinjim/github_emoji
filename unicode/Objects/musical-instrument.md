@@ -2,10 +2,10 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|saxophone|:saxophone:|saxophone|1063|
-|guitar|:guitar:|guitar|1064|
-|musical_keyboard|:musical_keyboard:|musical keyboard|1065|
-|trumpet|:trumpet:|trumpet|1066|
-|violin|:violin:|violin|1067|
-|||⊛ banjo|1068|
-|drum|:drum:|drum|1069|
+|saxophone|:saxophone:|saxophone|1086|
+|guitar|:guitar:|guitar|1087|
+|musical_keyboard|:musical_keyboard:|musical keyboard|1088|
+|trumpet|:trumpet:|trumpet|1089|
+|violin|:violin:|violin|1090|
+|||banjo|1091|
+|drum|:drum:|drum|1092|

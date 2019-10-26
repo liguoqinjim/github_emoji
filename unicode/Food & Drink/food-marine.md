@@ -2,8 +2,8 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|crab|:crab:|crab|671|
-|||lobster|672|
-|shrimp|:shrimp:|shrimp|673|
-|squid|:squid:|squid|674|
-|||⊛ oyster|675|
+|crab|:crab:|crab|694|
+|||lobster|695|
+|shrimp|:shrimp:|shrimp|696|
+|squid|:squid:|squid|697|
+|||oyster|698|

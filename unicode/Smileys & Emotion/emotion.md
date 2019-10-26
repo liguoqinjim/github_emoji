@@ -20,9 +20,9 @@
 |green_heart|:green_heart:|green heart|130|
 |blue_heart|:blue_heart:|blue heart|131|
 |purple_heart|:purple_heart:|purple heart|132|
-|||⊛ brown heart|133|
+|||brown heart|133|
 |black_heart|:black_heart:|black heart|134|
-|||⊛ white heart|135|
+|||white heart|135|
 |100|:100:|hundred points|136|
 |anger|:anger:|anger symbol|137|
 |boom|:boom:|collision|138|

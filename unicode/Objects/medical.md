@@ -2,8 +2,8 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|syringe|:syringe:|syringe|1209|
-|||⊛ drop of blood|1210|
-|pill|:pill:|pill|1211|
-|||⊛ adhesive bandage|1212|
-|||⊛ stethoscope|1213|
+|syringe|:syringe:|syringe|1232|
+|||drop of blood|1233|
+|pill|:pill:|pill|1234|
+|||adhesive bandage|1235|
+|||stethoscope|1236|

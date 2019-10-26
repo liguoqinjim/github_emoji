@@ -2,39 +2,42 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|massage|:massage:|person getting massage|335|
-|massage_man|:massage_man:|man getting massage|336|
-|||woman getting massage|337|
-|haircut|:haircut:|person getting haircut|338|
-|haircut_man|:haircut_man:|man getting haircut|339|
-|||woman getting haircut|340|
-|walking|:walking:|person walking|341|
-|||man walking|342|
-|walking_woman|:walking_woman:|woman walking|343|
-|||⊛ person standing|344|
-|||⊛ man standing|345|
-|||⊛ woman standing|346|
-|||⊛ person kneeling|347|
-|||⊛ man kneeling|348|
-|||⊛ woman kneeling|349|
-|||⊛ man with probing cane|350|
-|||⊛ woman with probing cane|351|
-|||⊛ man in motorized wheelchair|352|
-|||⊛ woman in motorized wheelchair|353|
-|||⊛ man in manual wheelchair|354|
-|||⊛ woman in manual wheelchair|355|
-|runner|:runner:|person running|356|
-|||man running|357|
-|running_woman|:running_woman:|woman running|358|
-|dancer|:dancer:|woman dancing|359|
-|man_dancing|:man_dancing:|man dancing|360|
-|business_suit_levitating|:business_suit_levitating:|man in suit levitating|361|
-|dancers|:dancers:|people with bunny ears|362|
-|dancing_men|:dancing_men:|men with bunny ears|363|
-|||women with bunny ears|364|
-|||person in steamy room|365|
-|||man in steamy room|366|
-|||woman in steamy room|367|
-|||person climbing|368|
-|||man climbing|369|
-|||woman climbing|370|
+|massage|:massage:|person getting massage|355|
+|massage_man|:massage_man:|man getting massage|356|
+|||woman getting massage|357|
+|haircut|:haircut:|person getting haircut|358|
+|haircut_man|:haircut_man:|man getting haircut|359|
+|||woman getting haircut|360|
+|walking|:walking:|person walking|361|
+|||man walking|362|
+|walking_woman|:walking_woman:|woman walking|363|
+|||person standing|364|
+|||man standing|365|
+|||woman standing|366|
+|||person kneeling|367|
+|||man kneeling|368|
+|||woman kneeling|369|
+|||⊛ person with probing cane|370|
+|||man with probing cane|371|
+|||woman with probing cane|372|
+|||⊛ person in motorized wheelchair|373|
+|||man in motorized wheelchair|374|
+|||woman in motorized wheelchair|375|
+|||⊛ person in manual wheelchair|376|
+|||man in manual wheelchair|377|
+|||woman in manual wheelchair|378|
+|runner|:runner:|person running|379|
+|||man running|380|
+|running_woman|:running_woman:|woman running|381|
+|dancer|:dancer:|woman dancing|382|
+|man_dancing|:man_dancing:|man dancing|383|
+|business_suit_levitating|:business_suit_levitating:|man in suit levitating|384|
+|dancers|:dancers:|people with bunny ears|385|
+|dancing_men|:dancing_men:|men with bunny ears|386|
+|||women with bunny ears|387|
+|||person in steamy room|388|
+|||man in steamy room|389|
+|||woman in steamy room|390|
+|||person climbing|391|
+|||man climbing|392|
+|||woman climbing|393|

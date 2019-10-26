@@ -2,4 +2,4 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|frog|:frog:|frog|540|
+|frog|:frog:|frog|563|

@@ -25,4 +25,4 @@
 |sweat|:sweat:|downcast face with sweat|83|
 |weary|:weary:|weary face|84|
 |tired_face|:tired_face:|tired face|85|
-|||⊛ yawning face|86|
+|||yawning face|86|
