@@ -320,10 +320,10 @@
 |man_with_turban|:man_with_turban:|person wearing turban|316|
 |||man wearing turban|317|
 |woman_with_turban|:woman_with_turban:|woman wearing turban|318|
-|man_with_gua_pi_mao|:man_with_gua_pi_mao:|man with skullcap|319|
+|man_with_gua_pi_mao|:man_with_gua_pi_mao:|person with skullcap|319|
 |||woman with headscarf|320|
-|man_in_tuxedo|:man_in_tuxedo:|man in tuxedo|321|
-|bride_with_veil|:bride_with_veil:|bride with veil|322|
+|man_in_tuxedo|:man_in_tuxedo:|person in tuxedo|321|
+|bride_with_veil|:bride_with_veil:|person with veil|322|
 |pregnant_woman|:pregnant_woman:|pregnant woman|323|
 |||breast-feeding|324|
 |angel|:angel:|baby angel|325|
@@ -371,9 +371,9 @@
 |||person kneeling|367|
 |||man kneeling|368|
 |||woman kneeling|369|
-|||⊛ person with probing cane|370|
-|||man with probing cane|371|
-|||woman with probing cane|372|
+|||⊛ person with white cane|370|
+|||man with white cane|371|
+|||woman with white cane|372|
 |||⊛ person in motorized wheelchair|373|
 |||man in motorized wheelchair|374|
 |||woman in motorized wheelchair|375|
@@ -385,7 +385,7 @@
 |running_woman|:running_woman:|woman running|381|
 |dancer|:dancer:|woman dancing|382|
 |man_dancing|:man_dancing:|man dancing|383|
-|business_suit_levitating|:business_suit_levitating:|man in suit levitating|384|
+|business_suit_levitating|:business_suit_levitating:|person in suit levitating|384|
 |dancers|:dancers:|people with bunny ears|385|
 |dancing_men|:dancing_men:|men with bunny ears|386|
 |||women with bunny ears|387|
@@ -1155,238 +1155,238 @@
 |credit_card|:credit_card:|credit card|1151|
 |||receipt|1152|
 |chart|:chart:|chart increasing with yen|1153|
-|currency_exchange|:currency_exchange:|currency exchange|1154|
-|heavy_dollar_sign|:heavy_dollar_sign:|heavy dollar sign|1155|
-|email|:email:|envelope|1156|
-|e-mail|:e-mail:|e-mail|1157|
-|incoming_envelope|:incoming_envelope:|incoming envelope|1158|
-|envelope_with_arrow|:envelope_with_arrow:|envelope with arrow|1159|
-|outbox_tray|:outbox_tray:|outbox tray|1160|
-|inbox_tray|:inbox_tray:|inbox tray|1161|
-|package|:package:|package|1162|
-|mailbox|:mailbox:|closed mailbox with raised flag|1163|
-|mailbox_closed|:mailbox_closed:|closed mailbox with lowered flag|1164|
-|mailbox_with_mail|:mailbox_with_mail:|open mailbox with raised flag|1165|
-|mailbox_with_no_mail|:mailbox_with_no_mail:|open mailbox with lowered flag|1166|
-|postbox|:postbox:|postbox|1167|
-|ballot_box|:ballot_box:|ballot box with ballot|1168|
-|pencil2|:pencil2:|pencil|1169|
-|black_nib|:black_nib:|black nib|1170|
-|fountain_pen|:fountain_pen:|fountain pen|1171|
-|pen|:pen:|pen|1172|
-|paintbrush|:paintbrush:|paintbrush|1173|
-|crayon|:crayon:|crayon|1174|
-|memo|:memo:|memo|1175|
-|briefcase|:briefcase:|briefcase|1176|
-|file_folder|:file_folder:|file folder|1177|
-|open_file_folder|:open_file_folder:|open file folder|1178|
-|card_index_dividers|:card_index_dividers:|card index dividers|1179|
-|date|:date:|calendar|1180|
-|calendar|:calendar:|tear-off calendar|1181|
-|spiral_notepad|:spiral_notepad:|spiral notepad|1182|
-|spiral_calendar|:spiral_calendar:|spiral calendar|1183|
-|card_index|:card_index:|card index|1184|
-|chart_with_upwards_trend|:chart_with_upwards_trend:|chart increasing|1185|
-|chart_with_downwards_trend|:chart_with_downwards_trend:|chart decreasing|1186|
-|bar_chart|:bar_chart:|bar chart|1187|
-|clipboard|:clipboard:|clipboard|1188|
-|pushpin|:pushpin:|pushpin|1189|
-|round_pushpin|:round_pushpin:|round pushpin|1190|
-|paperclip|:paperclip:|paperclip|1191|
-|paperclips|:paperclips:|linked paperclips|1192|
-|straight_ruler|:straight_ruler:|straight ruler|1193|
-|triangular_ruler|:triangular_ruler:|triangular ruler|1194|
-|scissors|:scissors:|scissors|1195|
-|card_file_box|:card_file_box:|card file box|1196|
-|file_cabinet|:file_cabinet:|file cabinet|1197|
-|wastebasket|:wastebasket:|wastebasket|1198|
-|lock|:lock:|locked|1199|
-|unlock|:unlock:|unlocked|1200|
-|lock_with_ink_pen|:lock_with_ink_pen:|locked with pen|1201|
-|closed_lock_with_key|:closed_lock_with_key:|locked with key|1202|
-|key|:key:|key|1203|
-|old_key|:old_key:|old key|1204|
-|hammer|:hammer:|hammer|1205|
-|||axe|1206|
-|pick|:pick:|pick|1207|
-|hammer_and_pick|:hammer_and_pick:|hammer and pick|1208|
-|hammer_and_wrench|:hammer_and_wrench:|hammer and wrench|1209|
-|dagger|:dagger:|dagger|1210|
-|crossed_swords|:crossed_swords:|crossed swords|1211|
-|gun|:gun:|pistol|1212|
-|bow_and_arrow|:bow_and_arrow:|bow and arrow|1213|
-|shield|:shield:|shield|1214|
-|wrench|:wrench:|wrench|1215|
-|nut_and_bolt|:nut_and_bolt:|nut and bolt|1216|
-|gear|:gear:|gear|1217|
-|clamp|:clamp:|clamp|1218|
-|balance_scale|:balance_scale:|balance scale|1219|
-|||probing cane|1220|
-|link|:link:|link|1221|
-|chains|:chains:|chains|1222|
-|||toolbox|1223|
-|||magnet|1224|
-|alembic|:alembic:|alembic|1225|
-|||test tube|1226|
-|||petri dish|1227|
-|||dna|1228|
-|microscope|:microscope:|microscope|1229|
-|telescope|:telescope:|telescope|1230|
-|satellite|:satellite:|satellite antenna|1231|
-|syringe|:syringe:|syringe|1232|
-|||drop of blood|1233|
-|pill|:pill:|pill|1234|
-|||adhesive bandage|1235|
-|||stethoscope|1236|
-|door|:door:|door|1237|
-|bed|:bed:|bed|1238|
-|couch_and_lamp|:couch_and_lamp:|couch and lamp|1239|
-|||chair|1240|
-|toilet|:toilet:|toilet|1241|
-|shower|:shower:|shower|1242|
-|bathtub|:bathtub:|bathtub|1243|
-|||razor|1244|
-|||lotion bottle|1245|
-|||safety pin|1246|
-|||broom|1247|
-|||basket|1248|
-|||roll of paper|1249|
-|||soap|1250|
-|||sponge|1251|
-|||fire extinguisher|1252|
-|shopping_cart|:shopping_cart:|shopping cart|1253|
-|smoking|:smoking:|cigarette|1254|
-|coffin|:coffin:|coffin|1255|
-|funeral_urn|:funeral_urn:|funeral urn|1256|
-|moyai|:moyai:|moai|1257|
-|atm|:atm:|ATM sign|1258|
-|put_litter_in_its_place|:put_litter_in_its_place:|litter in bin sign|1259|
-|potable_water|:potable_water:|potable water|1260|
-|wheelchair|:wheelchair:|wheelchair symbol|1261|
-|mens|:mens:|men’s room|1262|
-|womens|:womens:|women’s room|1263|
-|restroom|:restroom:|restroom|1264|
-|baby_symbol|:baby_symbol:|baby symbol|1265|
-|wc|:wc:|water closet|1266|
-|passport_control|:passport_control:|passport control|1267|
-|customs|:customs:|customs|1268|
-|baggage_claim|:baggage_claim:|baggage claim|1269|
-|left_luggage|:left_luggage:|left luggage|1270|
-|warning|:warning:|warning|1271|
-|children_crossing|:children_crossing:|children crossing|1272|
-|no_entry|:no_entry:|no entry|1273|
-|no_entry_sign|:no_entry_sign:|prohibited|1274|
-|no_bicycles|:no_bicycles:|no bicycles|1275|
-|no_smoking|:no_smoking:|no smoking|1276|
-|do_not_litter|:do_not_litter:|no littering|1277|
-|non-potable_water|:non-potable_water:|non-potable water|1278|
-|no_pedestrians|:no_pedestrians:|no pedestrians|1279|
-|no_mobile_phones|:no_mobile_phones:|no mobile phones|1280|
-|underage|:underage:|no one under eighteen|1281|
-|radioactive|:radioactive:|radioactive|1282|
-|biohazard|:biohazard:|biohazard|1283|
-|arrow_up|:arrow_up:|up arrow|1284|
-|arrow_upper_right|:arrow_upper_right:|up-right arrow|1285|
-|arrow_right|:arrow_right:|right arrow|1286|
-|arrow_lower_right|:arrow_lower_right:|down-right arrow|1287|
-|arrow_down|:arrow_down:|down arrow|1288|
-|arrow_lower_left|:arrow_lower_left:|down-left arrow|1289|
-|arrow_left|:arrow_left:|left arrow|1290|
-|arrow_upper_left|:arrow_upper_left:|up-left arrow|1291|
-|arrow_up_down|:arrow_up_down:|up-down arrow|1292|
-|left_right_arrow|:left_right_arrow:|left-right arrow|1293|
-|leftwards_arrow_with_hook|:leftwards_arrow_with_hook:|right arrow curving left|1294|
-|arrow_right_hook|:arrow_right_hook:|left arrow curving right|1295|
-|arrow_heading_up|:arrow_heading_up:|right arrow curving up|1296|
-|arrow_heading_down|:arrow_heading_down:|right arrow curving down|1297|
-|arrows_clockwise|:arrows_clockwise:|clockwise vertical arrows|1298|
-|arrows_counterclockwise|:arrows_counterclockwise:|counterclockwise arrows button|1299|
-|back|:back:|BACK arrow|1300|
-|end|:end:|END arrow|1301|
-|on|:on:|ON! arrow|1302|
-|soon|:soon:|SOON arrow|1303|
-|top|:top:|TOP arrow|1304|
-|place_of_worship|:place_of_worship:|place of worship|1305|
-|atom_symbol|:atom_symbol:|atom symbol|1306|
-|om|:om:|om|1307|
-|star_of_david|:star_of_david:|star of David|1308|
-|wheel_of_dharma|:wheel_of_dharma:|wheel of dharma|1309|
-|yin_yang|:yin_yang:|yin yang|1310|
-|latin_cross|:latin_cross:|latin cross|1311|
-|orthodox_cross|:orthodox_cross:|orthodox cross|1312|
-|star_and_crescent|:star_and_crescent:|star and crescent|1313|
-|peace_symbol|:peace_symbol:|peace symbol|1314|
-|menorah|:menorah:|menorah|1315|
-|six_pointed_star|:six_pointed_star:|dotted six-pointed star|1316|
-|aries|:aries:|Aries|1317|
-|taurus|:taurus:|Taurus|1318|
-|gemini|:gemini:|Gemini|1319|
-|cancer|:cancer:|Cancer|1320|
-|leo|:leo:|Leo|1321|
-|virgo|:virgo:|Virgo|1322|
-|libra|:libra:|Libra|1323|
-|scorpius|:scorpius:|Scorpio|1324|
-|sagittarius|:sagittarius:|Sagittarius|1325|
-|capricorn|:capricorn:|Capricorn|1326|
-|aquarius|:aquarius:|Aquarius|1327|
-|pisces|:pisces:|Pisces|1328|
-|ophiuchus|:ophiuchus:|Ophiuchus|1329|
-|twisted_rightwards_arrows|:twisted_rightwards_arrows:|shuffle tracks button|1330|
-|repeat|:repeat:|repeat button|1331|
-|repeat_one|:repeat_one:|repeat single button|1332|
-|arrow_forward|:arrow_forward:|play button|1333|
-|fast_forward|:fast_forward:|fast-forward button|1334|
-|next_track_button|:next_track_button:|next track button|1335|
-|play_or_pause_button|:play_or_pause_button:|play or pause button|1336|
-|arrow_backward|:arrow_backward:|reverse button|1337|
-|rewind|:rewind:|fast reverse button|1338|
-|previous_track_button|:previous_track_button:|last track button|1339|
-|arrow_up_small|:arrow_up_small:|upwards button|1340|
-|arrow_double_up|:arrow_double_up:|fast up button|1341|
-|arrow_down_small|:arrow_down_small:|downwards button|1342|
-|arrow_double_down|:arrow_double_down:|fast down button|1343|
-|pause_button|:pause_button:|pause button|1344|
-|stop_button|:stop_button:|stop button|1345|
-|record_button|:record_button:|record button|1346|
-|||eject button|1347|
-|cinema|:cinema:|cinema|1348|
-|low_brightness|:low_brightness:|dim button|1349|
-|high_brightness|:high_brightness:|bright button|1350|
-|signal_strength|:signal_strength:|antenna bars|1351|
-|vibration_mode|:vibration_mode:|vibration mode|1352|
-|mobile_phone_off|:mobile_phone_off:|mobile phone off|1353|
-|||female sign|1354|
-|||male sign|1355|
-|||medical symbol|1356|
-|||infinity|1357|
-|recycle|:recycle:|recycling symbol|1358|
-|fleur_de_lis|:fleur_de_lis:|fleur-de-lis|1359|
-|trident|:trident:|trident emblem|1360|
-|name_badge|:name_badge:|name badge|1361|
-|beginner|:beginner:|Japanese symbol for beginner|1362|
-|o|:o:|hollow red circle|1363|
-|white_check_mark|:white_check_mark:|check mark button|1364|
-|ballot_box_with_check|:ballot_box_with_check:|check box with check|1365|
-|heavy_check_mark|:heavy_check_mark:|check mark|1366|
-|heavy_multiplication_x|:heavy_multiplication_x:|multiplication sign|1367|
-|x|:x:|cross mark|1368|
-|negative_squared_cross_mark|:negative_squared_cross_mark:|cross mark button|1369|
-|heavy_plus_sign|:heavy_plus_sign:|plus sign|1370|
-|heavy_minus_sign|:heavy_minus_sign:|minus sign|1371|
-|heavy_division_sign|:heavy_division_sign:|division sign|1372|
-|curly_loop|:curly_loop:|curly loop|1373|
-|loop|:loop:|double curly loop|1374|
-|part_alternation_mark|:part_alternation_mark:|part alternation mark|1375|
-|eight_spoked_asterisk|:eight_spoked_asterisk:|eight-spoked asterisk|1376|
-|eight_pointed_black_star|:eight_pointed_black_star:|eight-pointed star|1377|
-|sparkle|:sparkle:|sparkle|1378|
-|bangbang|:bangbang:|double exclamation mark|1379|
-|interrobang|:interrobang:|exclamation question mark|1380|
-|question|:question:|question mark|1381|
-|grey_question|:grey_question:|white question mark|1382|
-|grey_exclamation|:grey_exclamation:|white exclamation mark|1383|
-|exclamation|:exclamation:|exclamation mark|1384|
-|wavy_dash|:wavy_dash:|wavy dash|1385|
+|email|:email:|envelope|1154|
+|e-mail|:e-mail:|e-mail|1155|
+|incoming_envelope|:incoming_envelope:|incoming envelope|1156|
+|envelope_with_arrow|:envelope_with_arrow:|envelope with arrow|1157|
+|outbox_tray|:outbox_tray:|outbox tray|1158|
+|inbox_tray|:inbox_tray:|inbox tray|1159|
+|package|:package:|package|1160|
+|mailbox|:mailbox:|closed mailbox with raised flag|1161|
+|mailbox_closed|:mailbox_closed:|closed mailbox with lowered flag|1162|
+|mailbox_with_mail|:mailbox_with_mail:|open mailbox with raised flag|1163|
+|mailbox_with_no_mail|:mailbox_with_no_mail:|open mailbox with lowered flag|1164|
+|postbox|:postbox:|postbox|1165|
+|ballot_box|:ballot_box:|ballot box with ballot|1166|
+|pencil2|:pencil2:|pencil|1167|
+|black_nib|:black_nib:|black nib|1168|
+|fountain_pen|:fountain_pen:|fountain pen|1169|
+|pen|:pen:|pen|1170|
+|paintbrush|:paintbrush:|paintbrush|1171|
+|crayon|:crayon:|crayon|1172|
+|memo|:memo:|memo|1173|
+|briefcase|:briefcase:|briefcase|1174|
+|file_folder|:file_folder:|file folder|1175|
+|open_file_folder|:open_file_folder:|open file folder|1176|
+|card_index_dividers|:card_index_dividers:|card index dividers|1177|
+|date|:date:|calendar|1178|
+|calendar|:calendar:|tear-off calendar|1179|
+|spiral_notepad|:spiral_notepad:|spiral notepad|1180|
+|spiral_calendar|:spiral_calendar:|spiral calendar|1181|
+|card_index|:card_index:|card index|1182|
+|chart_with_upwards_trend|:chart_with_upwards_trend:|chart increasing|1183|
+|chart_with_downwards_trend|:chart_with_downwards_trend:|chart decreasing|1184|
+|bar_chart|:bar_chart:|bar chart|1185|
+|clipboard|:clipboard:|clipboard|1186|
+|pushpin|:pushpin:|pushpin|1187|
+|round_pushpin|:round_pushpin:|round pushpin|1188|
+|paperclip|:paperclip:|paperclip|1189|
+|paperclips|:paperclips:|linked paperclips|1190|
+|straight_ruler|:straight_ruler:|straight ruler|1191|
+|triangular_ruler|:triangular_ruler:|triangular ruler|1192|
+|scissors|:scissors:|scissors|1193|
+|card_file_box|:card_file_box:|card file box|1194|
+|file_cabinet|:file_cabinet:|file cabinet|1195|
+|wastebasket|:wastebasket:|wastebasket|1196|
+|lock|:lock:|locked|1197|
+|unlock|:unlock:|unlocked|1198|
+|lock_with_ink_pen|:lock_with_ink_pen:|locked with pen|1199|
+|closed_lock_with_key|:closed_lock_with_key:|locked with key|1200|
+|key|:key:|key|1201|
+|old_key|:old_key:|old key|1202|
+|hammer|:hammer:|hammer|1203|
+|||axe|1204|
+|pick|:pick:|pick|1205|
+|hammer_and_pick|:hammer_and_pick:|hammer and pick|1206|
+|hammer_and_wrench|:hammer_and_wrench:|hammer and wrench|1207|
+|dagger|:dagger:|dagger|1208|
+|crossed_swords|:crossed_swords:|crossed swords|1209|
+|gun|:gun:|pistol|1210|
+|bow_and_arrow|:bow_and_arrow:|bow and arrow|1211|
+|shield|:shield:|shield|1212|
+|wrench|:wrench:|wrench|1213|
+|nut_and_bolt|:nut_and_bolt:|nut and bolt|1214|
+|gear|:gear:|gear|1215|
+|clamp|:clamp:|clamp|1216|
+|balance_scale|:balance_scale:|balance scale|1217|
+|||white cane|1218|
+|link|:link:|link|1219|
+|chains|:chains:|chains|1220|
+|||toolbox|1221|
+|||magnet|1222|
+|alembic|:alembic:|alembic|1223|
+|||test tube|1224|
+|||petri dish|1225|
+|||dna|1226|
+|microscope|:microscope:|microscope|1227|
+|telescope|:telescope:|telescope|1228|
+|satellite|:satellite:|satellite antenna|1229|
+|syringe|:syringe:|syringe|1230|
+|||drop of blood|1231|
+|pill|:pill:|pill|1232|
+|||adhesive bandage|1233|
+|||stethoscope|1234|
+|door|:door:|door|1235|
+|bed|:bed:|bed|1236|
+|couch_and_lamp|:couch_and_lamp:|couch and lamp|1237|
+|||chair|1238|
+|toilet|:toilet:|toilet|1239|
+|shower|:shower:|shower|1240|
+|bathtub|:bathtub:|bathtub|1241|
+|||razor|1242|
+|||lotion bottle|1243|
+|||safety pin|1244|
+|||broom|1245|
+|||basket|1246|
+|||roll of paper|1247|
+|||soap|1248|
+|||sponge|1249|
+|||fire extinguisher|1250|
+|shopping_cart|:shopping_cart:|shopping cart|1251|
+|smoking|:smoking:|cigarette|1252|
+|coffin|:coffin:|coffin|1253|
+|funeral_urn|:funeral_urn:|funeral urn|1254|
+|moyai|:moyai:|moai|1255|
+|atm|:atm:|ATM sign|1256|
+|put_litter_in_its_place|:put_litter_in_its_place:|litter in bin sign|1257|
+|potable_water|:potable_water:|potable water|1258|
+|wheelchair|:wheelchair:|wheelchair symbol|1259|
+|mens|:mens:|men’s room|1260|
+|womens|:womens:|women’s room|1261|
+|restroom|:restroom:|restroom|1262|
+|baby_symbol|:baby_symbol:|baby symbol|1263|
+|wc|:wc:|water closet|1264|
+|passport_control|:passport_control:|passport control|1265|
+|customs|:customs:|customs|1266|
+|baggage_claim|:baggage_claim:|baggage claim|1267|
+|left_luggage|:left_luggage:|left luggage|1268|
+|warning|:warning:|warning|1269|
+|children_crossing|:children_crossing:|children crossing|1270|
+|no_entry|:no_entry:|no entry|1271|
+|no_entry_sign|:no_entry_sign:|prohibited|1272|
+|no_bicycles|:no_bicycles:|no bicycles|1273|
+|no_smoking|:no_smoking:|no smoking|1274|
+|do_not_litter|:do_not_litter:|no littering|1275|
+|non-potable_water|:non-potable_water:|non-potable water|1276|
+|no_pedestrians|:no_pedestrians:|no pedestrians|1277|
+|no_mobile_phones|:no_mobile_phones:|no mobile phones|1278|
+|underage|:underage:|no one under eighteen|1279|
+|radioactive|:radioactive:|radioactive|1280|
+|biohazard|:biohazard:|biohazard|1281|
+|arrow_up|:arrow_up:|up arrow|1282|
+|arrow_upper_right|:arrow_upper_right:|up-right arrow|1283|
+|arrow_right|:arrow_right:|right arrow|1284|
+|arrow_lower_right|:arrow_lower_right:|down-right arrow|1285|
+|arrow_down|:arrow_down:|down arrow|1286|
+|arrow_lower_left|:arrow_lower_left:|down-left arrow|1287|
+|arrow_left|:arrow_left:|left arrow|1288|
+|arrow_upper_left|:arrow_upper_left:|up-left arrow|1289|
+|arrow_up_down|:arrow_up_down:|up-down arrow|1290|
+|left_right_arrow|:left_right_arrow:|left-right arrow|1291|
+|leftwards_arrow_with_hook|:leftwards_arrow_with_hook:|right arrow curving left|1292|
+|arrow_right_hook|:arrow_right_hook:|left arrow curving right|1293|
+|arrow_heading_up|:arrow_heading_up:|right arrow curving up|1294|
+|arrow_heading_down|:arrow_heading_down:|right arrow curving down|1295|
+|arrows_clockwise|:arrows_clockwise:|clockwise vertical arrows|1296|
+|arrows_counterclockwise|:arrows_counterclockwise:|counterclockwise arrows button|1297|
+|back|:back:|BACK arrow|1298|
+|end|:end:|END arrow|1299|
+|on|:on:|ON! arrow|1300|
+|soon|:soon:|SOON arrow|1301|
+|top|:top:|TOP arrow|1302|
+|place_of_worship|:place_of_worship:|place of worship|1303|
+|atom_symbol|:atom_symbol:|atom symbol|1304|
+|om|:om:|om|1305|
+|star_of_david|:star_of_david:|star of David|1306|
+|wheel_of_dharma|:wheel_of_dharma:|wheel of dharma|1307|
+|yin_yang|:yin_yang:|yin yang|1308|
+|latin_cross|:latin_cross:|latin cross|1309|
+|orthodox_cross|:orthodox_cross:|orthodox cross|1310|
+|star_and_crescent|:star_and_crescent:|star and crescent|1311|
+|peace_symbol|:peace_symbol:|peace symbol|1312|
+|menorah|:menorah:|menorah|1313|
+|six_pointed_star|:six_pointed_star:|dotted six-pointed star|1314|
+|aries|:aries:|Aries|1315|
+|taurus|:taurus:|Taurus|1316|
+|gemini|:gemini:|Gemini|1317|
+|cancer|:cancer:|Cancer|1318|
+|leo|:leo:|Leo|1319|
+|virgo|:virgo:|Virgo|1320|
+|libra|:libra:|Libra|1321|
+|scorpius|:scorpius:|Scorpio|1322|
+|sagittarius|:sagittarius:|Sagittarius|1323|
+|capricorn|:capricorn:|Capricorn|1324|
+|aquarius|:aquarius:|Aquarius|1325|
+|pisces|:pisces:|Pisces|1326|
+|ophiuchus|:ophiuchus:|Ophiuchus|1327|
+|twisted_rightwards_arrows|:twisted_rightwards_arrows:|shuffle tracks button|1328|
+|repeat|:repeat:|repeat button|1329|
+|repeat_one|:repeat_one:|repeat single button|1330|
+|arrow_forward|:arrow_forward:|play button|1331|
+|fast_forward|:fast_forward:|fast-forward button|1332|
+|next_track_button|:next_track_button:|next track button|1333|
+|play_or_pause_button|:play_or_pause_button:|play or pause button|1334|
+|arrow_backward|:arrow_backward:|reverse button|1335|
+|rewind|:rewind:|fast reverse button|1336|
+|previous_track_button|:previous_track_button:|last track button|1337|
+|arrow_up_small|:arrow_up_small:|upwards button|1338|
+|arrow_double_up|:arrow_double_up:|fast up button|1339|
+|arrow_down_small|:arrow_down_small:|downwards button|1340|
+|arrow_double_down|:arrow_double_down:|fast down button|1341|
+|pause_button|:pause_button:|pause button|1342|
+|stop_button|:stop_button:|stop button|1343|
+|record_button|:record_button:|record button|1344|
+|||eject button|1345|
+|cinema|:cinema:|cinema|1346|
+|low_brightness|:low_brightness:|dim button|1347|
+|high_brightness|:high_brightness:|bright button|1348|
+|signal_strength|:signal_strength:|antenna bars|1349|
+|vibration_mode|:vibration_mode:|vibration mode|1350|
+|mobile_phone_off|:mobile_phone_off:|mobile phone off|1351|
+|||female sign|1352|
+|||male sign|1353|
+|heavy_multiplication_x|:heavy_multiplication_x:|multiply|1354|
+|heavy_plus_sign|:heavy_plus_sign:|plus|1355|
+|heavy_minus_sign|:heavy_minus_sign:|minus|1356|
+|heavy_division_sign|:heavy_division_sign:|divide|1357|
+|||infinity|1358|
+|bangbang|:bangbang:|double exclamation mark|1359|
+|interrobang|:interrobang:|exclamation question mark|1360|
+|question|:question:|question mark|1361|
+|grey_question|:grey_question:|white question mark|1362|
+|grey_exclamation|:grey_exclamation:|white exclamation mark|1363|
+|exclamation|:exclamation:|exclamation mark|1364|
+|wavy_dash|:wavy_dash:|wavy dash|1365|
+|currency_exchange|:currency_exchange:|currency exchange|1366|
+|heavy_dollar_sign|:heavy_dollar_sign:|heavy dollar sign|1367|
+|||medical symbol|1368|
+|recycle|:recycle:|recycling symbol|1369|
+|fleur_de_lis|:fleur_de_lis:|fleur-de-lis|1370|
+|trident|:trident:|trident emblem|1371|
+|name_badge|:name_badge:|name badge|1372|
+|beginner|:beginner:|Japanese symbol for beginner|1373|
+|o|:o:|hollow red circle|1374|
+|white_check_mark|:white_check_mark:|check mark button|1375|
+|ballot_box_with_check|:ballot_box_with_check:|check box with check|1376|
+|heavy_check_mark|:heavy_check_mark:|check mark|1377|
+|x|:x:|cross mark|1378|
+|negative_squared_cross_mark|:negative_squared_cross_mark:|cross mark button|1379|
+|curly_loop|:curly_loop:|curly loop|1380|
+|loop|:loop:|double curly loop|1381|
+|part_alternation_mark|:part_alternation_mark:|part alternation mark|1382|
+|eight_spoked_asterisk|:eight_spoked_asterisk:|eight-spoked asterisk|1383|
+|eight_pointed_black_star|:eight_pointed_black_star:|eight-pointed star|1384|
+|sparkle|:sparkle:|sparkle|1385|
 |copyright|:copyright:|copyright|1386|
 |registered|:registered:|registered|1387|
 |tm|:tm:|trade mark|1388|

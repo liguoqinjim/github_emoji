@@ -67,9 +67,9 @@
 |man_with_turban|:man_with_turban:|person wearing turban|316|
 |||man wearing turban|317|
 |woman_with_turban|:woman_with_turban:|woman wearing turban|318|
-|man_with_gua_pi_mao|:man_with_gua_pi_mao:|man with skullcap|319|
+|man_with_gua_pi_mao|:man_with_gua_pi_mao:|person with skullcap|319|
 |||woman with headscarf|320|
-|man_in_tuxedo|:man_in_tuxedo:|man in tuxedo|321|
-|bride_with_veil|:bride_with_veil:|bride with veil|322|
+|man_in_tuxedo|:man_in_tuxedo:|person in tuxedo|321|
+|bride_with_veil|:bride_with_veil:|person with veil|322|
 |pregnant_woman|:pregnant_woman:|pregnant woman|323|
 |||breast-feeding|324|

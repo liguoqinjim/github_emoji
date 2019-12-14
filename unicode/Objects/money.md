@@ -11,5 +11,3 @@
 |credit_card|:credit_card:|credit card|1151|
 |||receipt|1152|
 |chart|:chart:|chart increasing with yen|1153|
-|currency_exchange|:currency_exchange:|currency exchange|1154|
-|heavy_dollar_sign|:heavy_dollar_sign:|heavy dollar sign|1155|

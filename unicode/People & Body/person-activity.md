@@ -17,9 +17,9 @@
 |||person kneeling|367|
 |||man kneeling|368|
 |||woman kneeling|369|
-|||⊛ person with probing cane|370|
-|||man with probing cane|371|
-|||woman with probing cane|372|
+|||⊛ person with white cane|370|
+|||man with white cane|371|
+|||woman with white cane|372|
 |||⊛ person in motorized wheelchair|373|
 |||man in motorized wheelchair|374|
 |||woman in motorized wheelchair|375|
@@ -31,7 +31,7 @@
 |running_woman|:running_woman:|woman running|381|
 |dancer|:dancer:|woman dancing|382|
 |man_dancing|:man_dancing:|man dancing|383|
-|business_suit_levitating|:business_suit_levitating:|man in suit levitating|384|
+|business_suit_levitating|:business_suit_levitating:|person in suit levitating|384|
 |dancers|:dancers:|people with bunny ears|385|
 |dancing_men|:dancing_men:|men with bunny ears|386|
 |||women with bunny ears|387|
