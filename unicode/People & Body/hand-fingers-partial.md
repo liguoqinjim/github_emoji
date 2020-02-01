@@ -2,10 +2,11 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|ok_hand|:ok_hand:|OK hand|155|
-|||pinching hand|156|
-|v|:v:|victory hand|157|
-|crossed_fingers|:crossed_fingers:|crossed fingers|158|
-|||love-you gesture|159|
-|metal|:metal:|sign of the horns|160|
-|call_me_hand|:call_me_hand:|call me hand|161|
+|ok_hand|:ok_hand:|OK hand|157|
+|||⊛ pinched fingers|158|
+|||pinching hand|159|
+|v|:v:|victory hand|160|
+|crossed_fingers|:crossed_fingers:|crossed fingers|161|
+|||love-you gesture|162|
+|metal|:metal:|sign of the horns|163|
+|call_me_hand|:call_me_hand:|call me hand|164|

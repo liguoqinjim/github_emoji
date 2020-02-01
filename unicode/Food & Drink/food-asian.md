@@ -2,20 +2,20 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|bento|:bento:|bento box|677|
-|rice_cracker|:rice_cracker:|rice cracker|678|
-|rice_ball|:rice_ball:|rice ball|679|
-|rice|:rice:|cooked rice|680|
-|curry|:curry:|curry rice|681|
-|ramen|:ramen:|steaming bowl|682|
-|spaghetti|:spaghetti:|spaghetti|683|
-|sweet_potato|:sweet_potato:|roasted sweet potato|684|
-|oden|:oden:|oden|685|
-|sushi|:sushi:|sushi|686|
-|fried_shrimp|:fried_shrimp:|fried shrimp|687|
-|fish_cake|:fish_cake:|fish cake with swirl|688|
-|||moon cake|689|
-|dango|:dango:|dango|690|
-|||dumpling|691|
-|||fortune cookie|692|
-|||takeout box|693|
+|bento|:bento:|bento box|711|
+|rice_cracker|:rice_cracker:|rice cracker|712|
+|rice_ball|:rice_ball:|rice ball|713|
+|rice|:rice:|cooked rice|714|
+|curry|:curry:|curry rice|715|
+|ramen|:ramen:|steaming bowl|716|
+|spaghetti|:spaghetti:|spaghetti|717|
+|sweet_potato|:sweet_potato:|roasted sweet potato|718|
+|oden|:oden:|oden|719|
+|sushi|:sushi:|sushi|720|
+|fried_shrimp|:fried_shrimp:|fried shrimp|721|
+|fish_cake|:fish_cake:|fish cake with swirl|722|
+|||moon cake|723|
+|dango|:dango:|dango|724|
+|||dumpling|725|
+|||fortune cookie|726|
+|||takeout box|727|
