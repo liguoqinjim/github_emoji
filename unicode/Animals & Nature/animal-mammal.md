@@ -5,15 +5,15 @@
 |monkey_face|:monkey_face:|monkey face|503|
 |monkey|:monkey:|monkey|504|
 |gorilla|:gorilla:|gorilla|505|
-|||orangutan|506|
+|orangutan|:orangutan:|orangutan|506|
 |dog|:dog:|dog face|507|
 |dog2|:dog2:|dog|508|
-|||guide dog|509|
-|||service dog|510|
+|guide_dog|:guide_dog:|guide dog|509|
+|service_dog|:service_dog:|service dog|510|
 |poodle|:poodle:|poodle|511|
 |wolf|:wolf:|wolf|512|
 |fox_face|:fox_face:|fox|513|
-|||raccoon|514|
+|raccoon|:raccoon:|raccoon|514|
 |cat|:cat:|cat face|515|
 |cat2|:cat2:|cat|516|
 |||⊛ black cat|517|
@@ -24,7 +24,7 @@
 |horse|:horse:|horse face|522|
 |racehorse|:racehorse:|horse|523|
 |unicorn|:unicorn:|unicorn|524|
-|||zebra|525|
+|zebra|:zebra:|zebra|525|
 |deer|:deer:|deer|526|
 |||⊛ bison|527|
 |cow|:cow:|cow face|528|
@@ -40,12 +40,12 @@
 |goat|:goat:|goat|538|
 |dromedary_camel|:dromedary_camel:|camel|539|
 |camel|:camel:|two-hump camel|540|
-|||llama|541|
-|||giraffe|542|
+|llama|:llama:|llama|541|
+|giraffe|:giraffe:|giraffe|542|
 |elephant|:elephant:|elephant|543|
 |||⊛ mammoth|544|
 |rhinoceros|:rhinoceros:|rhinoceros|545|
-|||hippopotamus|546|
+|hippopotamus|:hippopotamus:|hippopotamus|546|
 |mouse|:mouse:|mouse face|547|
 |mouse2|:mouse2:|mouse|548|
 |rat|:rat:|rat|549|
@@ -54,15 +54,15 @@
 |rabbit2|:rabbit2:|rabbit|552|
 |chipmunk|:chipmunk:|chipmunk|553|
 |||⊛ beaver|554|
-|||hedgehog|555|
+|hedgehog|:hedgehog:|hedgehog|555|
 |bat|:bat:|bat|556|
 |bear|:bear:|bear|557|
 |||⊛ polar bear|558|
 |koala|:koala:|koala|559|
 |panda_face|:panda_face:|panda|560|
-|||sloth|561|
-|||otter|562|
-|||skunk|563|
-|||kangaroo|564|
-|||badger|565|
+|sloth|:sloth:|sloth|561|
+|otter|:otter:|otter|562|
+|skunk|:skunk:|skunk|563|
+|kangaroo|:kangaroo:|kangaroo|564|
+|badger|:badger:|badger|565|
 |feet|:feet:|paw prints|566|

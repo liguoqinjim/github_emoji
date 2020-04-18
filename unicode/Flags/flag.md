@@ -9,4 +9,4 @@
 |white_flag|:white_flag:|white flag|1545|
 |rainbow_flag|:rainbow_flag:|rainbow flag|1546|
 |||⊛ transgender flag|1547|
-|||pirate flag|1548|
+|pirate_flag|:pirate_flag:|pirate flag|1548|

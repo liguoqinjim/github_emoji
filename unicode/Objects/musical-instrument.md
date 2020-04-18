@@ -8,6 +8,6 @@
 |musical_keyboard|:musical_keyboard:|musical keyboard|1137|
 |trumpet|:trumpet:|trumpet|1138|
 |violin|:violin:|violin|1139|
-|||banjo|1140|
+|banjo|:banjo:|banjo|1140|
 |drum|:drum:|drum|1141|
 |||⊛ long drum|1142|

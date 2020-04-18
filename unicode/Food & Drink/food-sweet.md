@@ -9,8 +9,8 @@
 |cookie|:cookie:|cookie|737|
 |birthday|:birthday:|birthday cake|738|
 |cake|:cake:|shortcake|739|
-|||cupcake|740|
-|||pie|741|
+|cupcake|:cupcake:|cupcake|740|
+|pie|:pie:|pie|741|
 |chocolate_bar|:chocolate_bar:|chocolate bar|742|
 |candy|:candy:|candy|743|
 |lollipop|:lollipop:|lollipop|744|

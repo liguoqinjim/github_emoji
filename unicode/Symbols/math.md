@@ -6,4 +6,4 @@
 |heavy_plus_sign|:heavy_plus_sign:|plus|1421|
 |heavy_minus_sign|:heavy_minus_sign:|minus|1422|
 |heavy_division_sign|:heavy_division_sign:|divide|1423|
-|||infinity|1424|
+|infinity|:infinity:|infinity|1424|

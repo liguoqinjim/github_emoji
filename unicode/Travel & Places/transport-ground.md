@@ -34,12 +34,12 @@
 |racing_car|:racing_car:|racing car|866|
 |motorcycle|:motorcycle:|motorcycle|867|
 |motor_scooter|:motor_scooter:|motor scooter|868|
-|||manual wheelchair|869|
-|||motorized wheelchair|870|
-|||auto rickshaw|871|
+|manual_wheelchair|:manual_wheelchair:|manual wheelchair|869|
+|motorized_wheelchair|:motorized_wheelchair:|motorized wheelchair|870|
+|auto_rickshaw|:auto_rickshaw:|auto rickshaw|871|
 |bike|:bike:|bicycle|872|
 |kick_scooter|:kick_scooter:|kick scooter|873|
-|||skateboard|874|
+|skateboard|:skateboard:|skateboard|874|
 |||⊛ roller skate|875|
 |busstop|:busstop:|bus stop|876|
 |motorway|:motorway:|motorway|877|

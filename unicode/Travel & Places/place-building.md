@@ -5,7 +5,7 @@
 |stadium|:stadium:|stadium|788|
 |classical_building|:classical_building:|classical building|789|
 |building_construction|:building_construction:|building construction|790|
-|||brick|791|
+|bricks|:bricks:|brick|791|
 |||⊛ rock|792|
 |||⊛ wood|793|
 |||⊛ hut|794|

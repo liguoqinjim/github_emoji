@@ -17,4 +17,4 @@
 |bulb|:bulb:|light bulb|1174|
 |flashlight|:flashlight:|flashlight|1175|
 |izakaya_lantern|:izakaya_lantern:|red paper lantern|1176|
-|||diya lamp|1177|
+|diya_lamp|:diya_lamp:|diya lamp|1177|

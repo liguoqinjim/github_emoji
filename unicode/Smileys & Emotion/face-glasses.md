@@ -4,4 +4,4 @@
 |---|---|---|---|
 |sunglasses|:sunglasses:|smiling face with sunglasses|62|
 |nerd_face|:nerd_face:|nerd face|63|
-|||face with monocle|64|
+|monocle_face|:monocle_face:|face with monocle|64|

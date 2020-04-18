@@ -19,6 +19,5 @@
 |rage3|:rage3:|https://github.githubassets.com/images/icons/emoji/rage3.png?v8|
 |rage4|:rage4:|https://github.githubassets.com/images/icons/emoji/rage4.png?v8|
 |shipit|:shipit:|https://github.githubassets.com/images/icons/emoji/shipit.png?v8|
-|squirrel|:squirrel:|https://github.githubassets.com/images/icons/emoji/shipit.png?v8|
 |suspect|:suspect:|https://github.githubassets.com/images/icons/emoji/suspect.png?v8|
 |trollface|:trollface:|https://github.githubassets.com/images/icons/emoji/trollface.png?v8|

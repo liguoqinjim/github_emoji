@@ -16,8 +16,8 @@
 |beers|:beers:|clinking beer mugs|758|
 |clinking_glasses|:clinking_glasses:|clinking glasses|759|
 |tumbler_glass|:tumbler_glass:|tumbler glass|760|
-|||cup with straw|761|
+|cup_with_straw|:cup_with_straw:|cup with straw|761|
 |||⊛ bubble tea|762|
-|||beverage box|763|
-|||mate|764|
-|||ice|765|
+|beverage_box|:beverage_box:|beverage box|763|
+|mate|:mate:|mate|764|
+|ice_cube|:ice_cube:|ice|765|

@@ -2,11 +2,11 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|||people holding hands|456|
+|people_holding_hands|:people_holding_hands:|people holding hands|456|
 |two_women_holding_hands|:two_women_holding_hands:|women holding hands|457|
 |couple|:couple:|woman and man holding hands|458|
 |two_men_holding_hands|:two_men_holding_hands:|men holding hands|459|
-|couplekiss_man_woman|:couplekiss_man_woman:|kiss|460|
+|couplekiss|:couplekiss:|kiss|460|
 |couplekiss_man_man|:couplekiss_man_man:|kiss: woman, man|461|
 |couplekiss_man_man|:couplekiss_man_man:|kiss: man, man|462|
 |couplekiss_woman_woman|:couplekiss_woman_woman:|kiss: woman, woman|463|

@@ -13,10 +13,10 @@
 |dove|:dove:|dove|575|
 |eagle|:eagle:|eagle|576|
 |duck|:duck:|duck|577|
-|||swan|578|
+|swan|:swan:|swan|578|
 |owl|:owl:|owl|579|
 |||⊛ dodo|580|
 |||⊛ feather|581|
-|||flamingo|582|
-|||peacock|583|
-|||parrot|584|
+|flamingo|:flamingo:|flamingo|582|
+|peacock|:peacock:|peacock|583|
+|parrot|:parrot:|parrot|584|

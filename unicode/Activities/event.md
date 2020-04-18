@@ -6,7 +6,7 @@
 |christmas_tree|:christmas_tree:|Christmas tree|988|
 |fireworks|:fireworks:|fireworks|989|
 |sparkler|:sparkler:|sparkler|990|
-|||firecracker|991|
+|firecracker|:firecracker:|firecracker|991|
 |sparkles|:sparkles:|sparkles|992|
 |balloon|:balloon:|balloon|993|
 |tada|:tada:|party popper|994|
@@ -17,7 +17,7 @@
 |flags|:flags:|carp streamer|999|
 |wind_chime|:wind_chime:|wind chime|1000|
 |rice_scene|:rice_scene:|moon viewing ceremony|1001|
-|||red envelope|1002|
+|red_envelope|:red_envelope:|red envelope|1002|
 |ribbon|:ribbon:|ribbon|1003|
 |gift|:gift:|wrapped gift|1004|
 |reminder_ribbon|:reminder_ribbon:|reminder ribbon|1005|

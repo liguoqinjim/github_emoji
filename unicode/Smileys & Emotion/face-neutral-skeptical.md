@@ -3,7 +3,7 @@
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
 |zipper_mouth_face|:zipper_mouth_face:|zipper-mouth face|33|
-|||face with raised eyebrow|34|
+|raised_eyebrow|:raised_eyebrow:|face with raised eyebrow|34|
 |neutral_face|:neutral_face:|neutral face|35|
 |expressionless|:expressionless:|expressionless face|36|
 |no_mouth|:no_mouth:|face without mouth|37|

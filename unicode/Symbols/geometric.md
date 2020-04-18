@@ -3,21 +3,21 @@
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
 |red_circle|:red_circle:|red circle|1507|
-|||orange circle|1508|
-|||yellow circle|1509|
-|||green circle|1510|
+|orange_circle|:orange_circle:|orange circle|1508|
+|yellow_circle|:yellow_circle:|yellow circle|1509|
+|green_circle|:green_circle:|green circle|1510|
 |large_blue_circle|:large_blue_circle:|blue circle|1511|
-|||purple circle|1512|
-|||brown circle|1513|
+|purple_circle|:purple_circle:|purple circle|1512|
+|brown_circle|:brown_circle:|brown circle|1513|
 |black_circle|:black_circle:|black circle|1514|
 |white_circle|:white_circle:|white circle|1515|
-|||red square|1516|
-|||orange square|1517|
-|||yellow square|1518|
-|||green square|1519|
-|||blue square|1520|
-|||purple square|1521|
-|||brown square|1522|
+|red_square|:red_square:|red square|1516|
+|orange_square|:orange_square:|orange square|1517|
+|yellow_square|:yellow_square:|yellow square|1518|
+|green_square|:green_square:|green square|1519|
+|blue_square|:blue_square:|blue square|1520|
+|purple_square|:purple_square:|purple square|1521|
+|brown_square|:brown_square:|brown square|1522|
 |black_large_square|:black_large_square:|black large square|1523|
 |white_large_square|:white_large_square:|white large square|1524|
 |black_medium_square|:black_medium_square:|black medium square|1525|

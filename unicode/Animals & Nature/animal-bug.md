@@ -9,12 +9,12 @@
 |bee|:bee:|honeybee|608|
 |||⊛ beetle|609|
 |beetle|:beetle:|lady beetle|610|
-|||cricket|611|
+|cricket|:cricket:|cricket|611|
 |||⊛ cockroach|612|
 |spider|:spider:|spider|613|
 |spider_web|:spider_web:|spider web|614|
 |scorpion|:scorpion:|scorpion|615|
-|||mosquito|616|
+|mosquito|:mosquito:|mosquito|616|
 |||⊛ fly|617|
 |||⊛ worm|618|
-|||microbe|619|
+|microbe|:microbe:|microbe|619|

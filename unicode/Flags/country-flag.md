@@ -2,7 +2,7 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|||flag: Ascension Island|1549|
+|ascension_island|:ascension_island:|flag: Ascension Island|1549|
 |andorra|:andorra:|flag: Andorra|1550|
 |united_arab_emirates|:united_arab_emirates:|flag: United Arab Emirates|1551|
 |afghanistan|:afghanistan:|flag: Afghanistan|1552|
@@ -36,7 +36,7 @@
 |brazil|:brazil:|flag: Brazil|1580|
 |bahamas|:bahamas:|flag: Bahamas|1581|
 |bhutan|:bhutan:|flag: Bhutan|1582|
-|||flag: Bouvet Island|1583|
+|bouvet_island|:bouvet_island:|flag: Bouvet Island|1583|
 |botswana|:botswana:|flag: Botswana|1584|
 |belarus|:belarus:|flag: Belarus|1585|
 |belize|:belize:|flag: Belize|1586|
@@ -52,7 +52,7 @@
 |cameroon|:cameroon:|flag: Cameroon|1596|
 |cn|:cn:|flag: China|1597|
 |colombia|:colombia:|flag: Colombia|1598|
-|||flag: Clipperton Island|1599|
+|clipperton_island|:clipperton_island:|flag: Clipperton Island|1599|
 |costa_rica|:costa_rica:|flag: Costa Rica|1600|
 |cuba|:cuba:|flag: Cuba|1601|
 |cape_verde|:cape_verde:|flag: Cape Verde|1602|
@@ -61,13 +61,13 @@
 |cyprus|:cyprus:|flag: Cyprus|1605|
 |czech_republic|:czech_republic:|flag: Czechia|1606|
 |de|:de:|flag: Germany|1607|
-|||flag: Diego Garcia|1608|
+|diego_garcia|:diego_garcia:|flag: Diego Garcia|1608|
 |djibouti|:djibouti:|flag: Djibouti|1609|
 |denmark|:denmark:|flag: Denmark|1610|
 |dominica|:dominica:|flag: Dominica|1611|
 |dominican_republic|:dominican_republic:|flag: Dominican Republic|1612|
 |algeria|:algeria:|flag: Algeria|1613|
-|||flag: Ceuta & Melilla|1614|
+|ceuta_melilla|:ceuta_melilla:|flag: Ceuta & Melilla|1614|
 |ecuador|:ecuador:|flag: Ecuador|1615|
 |estonia|:estonia:|flag: Estonia|1616|
 |egypt|:egypt:|flag: Egypt|1617|
@@ -102,7 +102,7 @@
 |guinea_bissau|:guinea_bissau:|flag: Guinea-Bissau|1646|
 |guyana|:guyana:|flag: Guyana|1647|
 |hong_kong|:hong_kong:|flag: Hong Kong SAR China|1648|
-|||flag: Heard & McDonald Islands|1649|
+|heard_mcdonald_islands|:heard_mcdonald_islands:|flag: Heard & McDonald Islands|1649|
 |honduras|:honduras:|flag: Honduras|1650|
 |croatia|:croatia:|flag: Croatia|1651|
 |haiti|:haiti:|flag: Haiti|1652|
@@ -148,7 +148,7 @@
 |monaco|:monaco:|flag: Monaco|1692|
 |moldova|:moldova:|flag: Moldova|1693|
 |montenegro|:montenegro:|flag: Montenegro|1694|
-|||flag: St. Martin|1695|
+|st_martin|:st_martin:|flag: St. Martin|1695|
 |madagascar|:madagascar:|flag: Madagascar|1696|
 |marshall_islands|:marshall_islands:|flag: Marshall Islands|1697|
 |macedonia|:macedonia:|flag: North Macedonia|1698|
@@ -208,7 +208,7 @@
 |singapore|:singapore:|flag: Singapore|1752|
 |st_helena|:st_helena:|flag: St. Helena|1753|
 |slovenia|:slovenia:|flag: Slovenia|1754|
-|||flag: Svalbard & Jan Mayen|1755|
+|svalbard_jan_mayen|:svalbard_jan_mayen:|flag: Svalbard & Jan Mayen|1755|
 |slovakia|:slovakia:|flag: Slovakia|1756|
 |sierra_leone|:sierra_leone:|flag: Sierra Leone|1757|
 |san_marino|:san_marino:|flag: San Marino|1758|
@@ -221,7 +221,7 @@
 |sint_maarten|:sint_maarten:|flag: Sint Maarten|1765|
 |syria|:syria:|flag: Syria|1766|
 |swaziland|:swaziland:|flag: Eswatini|1767|
-|||flag: Tristan da Cunha|1768|
+|tristan_da_cunha|:tristan_da_cunha:|flag: Tristan da Cunha|1768|
 |turks_caicos_islands|:turks_caicos_islands:|flag: Turks & Caicos Islands|1769|
 |chad|:chad:|flag: Chad|1770|
 |french_southern_territories|:french_southern_territories:|flag: French Southern Territories|1771|
@@ -240,8 +240,8 @@
 |tanzania|:tanzania:|flag: Tanzania|1784|
 |ukraine|:ukraine:|flag: Ukraine|1785|
 |uganda|:uganda:|flag: Uganda|1786|
-|||flag: U.S. Outlying Islands|1787|
-|||flag: United Nations|1788|
+|us_outlying_islands|:us_outlying_islands:|flag: U.S. Outlying Islands|1787|
+|united_nations|:united_nations:|flag: United Nations|1788|
 |us|:us:|flag: United States|1789|
 |uruguay|:uruguay:|flag: Uruguay|1790|
 |uzbekistan|:uzbekistan:|flag: Uzbekistan|1791|

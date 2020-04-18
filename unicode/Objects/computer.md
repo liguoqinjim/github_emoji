@@ -14,4 +14,4 @@
 |floppy_disk|:floppy_disk:|floppy disk|1158|
 |cd|:cd:|optical disk|1159|
 |dvd|:dvd:|dvd|1160|
-|||abacus|1161|
+|abacus|:abacus:|abacus|1161|

@@ -15,9 +15,9 @@
 |wink|:wink:|winking face|11|
 |blush|:blush:|smiling face with smiling eyes|12|
 |innocent|:innocent:|smiling face with halo|13|
-|||smiling face with hearts|14|
+|smiling_face_with_three_hearts|:smiling_face_with_three_hearts:|smiling face with hearts|14|
 |heart_eyes|:heart_eyes:|smiling face with heart-eyes|15|
-|||star-struck|16|
+|star_struck|:star_struck:|star-struck|16|
 |kissing_heart|:kissing_heart:|face blowing a kiss|17|
 |kissing|:kissing:|kissing face|18|
 |relaxed|:relaxed:|smiling face|19|
@@ -27,15 +27,15 @@
 |yum|:yum:|face savoring food|23|
 |stuck_out_tongue|:stuck_out_tongue:|face with tongue|24|
 |stuck_out_tongue_winking_eye|:stuck_out_tongue_winking_eye:|winking face with tongue|25|
-|||zany face|26|
+|zany_face|:zany_face:|zany face|26|
 |stuck_out_tongue_closed_eyes|:stuck_out_tongue_closed_eyes:|squinting face with tongue|27|
 |money_mouth_face|:money_mouth_face:|money-mouth face|28|
 |hugs|:hugs:|hugging face|29|
-|||face with hand over mouth|30|
-|||shushing face|31|
+|hand_over_mouth|:hand_over_mouth:|face with hand over mouth|30|
+|shushing_face|:shushing_face:|shushing face|31|
 |thinking|:thinking:|thinking face|32|
 |zipper_mouth_face|:zipper_mouth_face:|zipper-mouth face|33|
-|||face with raised eyebrow|34|
+|raised_eyebrow|:raised_eyebrow:|face with raised eyebrow|34|
 |neutral_face|:neutral_face:|neutral face|35|
 |expressionless|:expressionless:|expressionless face|36|
 |no_mouth|:no_mouth:|face without mouth|37|
@@ -53,19 +53,19 @@
 |face_with_thermometer|:face_with_thermometer:|face with thermometer|49|
 |face_with_head_bandage|:face_with_head_bandage:|face with head-bandage|50|
 |nauseated_face|:nauseated_face:|nauseated face|51|
-|||face vomiting|52|
+|vomiting_face|:vomiting_face:|face vomiting|52|
 |sneezing_face|:sneezing_face:|sneezing face|53|
-|||hot face|54|
-|||cold face|55|
-|||woozy face|56|
+|hot_face|:hot_face:|hot face|54|
+|cold_face|:cold_face:|cold face|55|
+|woozy_face|:woozy_face:|woozy face|56|
 |dizzy_face|:dizzy_face:|dizzy face|57|
-|||exploding head|58|
+|exploding_head|:exploding_head:|exploding head|58|
 |cowboy_hat_face|:cowboy_hat_face:|cowboy hat face|59|
-|||partying face|60|
+|partying_face|:partying_face:|partying face|60|
 |||⊛ disguised face|61|
 |sunglasses|:sunglasses:|smiling face with sunglasses|62|
 |nerd_face|:nerd_face:|nerd face|63|
-|||face with monocle|64|
+|monocle_face|:monocle_face:|face with monocle|64|
 |confused|:confused:|confused face|65|
 |worried|:worried:|worried face|66|
 |slightly_frowning_face|:slightly_frowning_face:|slightly frowning face|67|
@@ -74,7 +74,7 @@
 |hushed|:hushed:|hushed face|70|
 |astonished|:astonished:|astonished face|71|
 |flushed|:flushed:|flushed face|72|
-|||pleading face|73|
+|pleading_face|:pleading_face:|pleading face|73|
 |frowning|:frowning:|frowning face with open mouth|74|
 |anguished|:anguished:|anguished face|75|
 |fearful|:fearful:|fearful face|76|
@@ -89,11 +89,11 @@
 |sweat|:sweat:|downcast face with sweat|85|
 |weary|:weary:|weary face|86|
 |tired_face|:tired_face:|tired face|87|
-|||yawning face|88|
+|yawning_face|:yawning_face:|yawning face|88|
 |triumph|:triumph:|face with steam from nose|89|
 |pout|:pout:|pouting face|90|
 |angry|:angry:|angry face|91|
-|||face with symbols on mouth|92|
+|cursing_face|:cursing_face:|face with symbols on mouth|92|
 |smiling_imp|:smiling_imp:|smiling face with horns|93|
 |imp|:imp:|angry face with horns|94|
 |skull|:skull:|skull|95|
@@ -131,14 +131,14 @@
 |heavy_heart_exclamation|:heavy_heart_exclamation:|heart exclamation|127|
 |broken_heart|:broken_heart:|broken heart|128|
 |heart|:heart:|red heart|129|
-|||orange heart|130|
+|orange_heart|:orange_heart:|orange heart|130|
 |yellow_heart|:yellow_heart:|yellow heart|131|
 |green_heart|:green_heart:|green heart|132|
 |blue_heart|:blue_heart:|blue heart|133|
 |purple_heart|:purple_heart:|purple heart|134|
-|||brown heart|135|
+|brown_heart|:brown_heart:|brown heart|135|
 |black_heart|:black_heart:|black heart|136|
-|||white heart|137|
+|white_heart|:white_heart:|white heart|137|
 |100|:100:|hundred points|138|
 |anger|:anger:|anger symbol|139|
 |boom|:boom:|collision|140|
@@ -149,7 +149,7 @@
 |bomb|:bomb:|bomb|145|
 |speech_balloon|:speech_balloon:|speech balloon|146|
 |eye_speech_bubble|:eye_speech_bubble:|eye in speech bubble|147|
-|||left speech bubble|148|
+|left_speech_bubble|:left_speech_bubble:|left speech bubble|148|
 |right_anger_bubble|:right_anger_bubble:|right anger bubble|149|
 |thought_balloon|:thought_balloon:|thought balloon|150|
 |zzz|:zzz:|zzz|151|
@@ -160,10 +160,10 @@
 |vulcan_salute|:vulcan_salute:|vulcan salute|156|
 |ok_hand|:ok_hand:|OK hand|157|
 |||⊛ pinched fingers|158|
-|||pinching hand|159|
+|pinching_hand|:pinching_hand:|pinching hand|159|
 |v|:v:|victory hand|160|
 |crossed_fingers|:crossed_fingers:|crossed fingers|161|
-|||love-you gesture|162|
+|love_you_gesture|:love_you_gesture:|love-you gesture|162|
 |metal|:metal:|sign of the horns|163|
 |call_me_hand|:call_me_hand:|call me hand|164|
 |point_left|:point_left:|backhand index pointing left|165|
@@ -181,153 +181,153 @@
 |clap|:clap:|clapping hands|177|
 |raised_hands|:raised_hands:|raising hands|178|
 |open_hands|:open_hands:|open hands|179|
-|||palms up together|180|
+|palms_up_together|:palms_up_together:|palms up together|180|
 |handshake|:handshake:|handshake|181|
 |pray|:pray:|folded hands|182|
 |writing_hand|:writing_hand:|writing hand|183|
 |nail_care|:nail_care:|nail polish|184|
 |selfie|:selfie:|selfie|185|
 |muscle|:muscle:|flexed biceps|186|
-|||mechanical arm|187|
-|||mechanical leg|188|
-|||leg|189|
-|||foot|190|
+|mechanical_arm|:mechanical_arm:|mechanical arm|187|
+|mechanical_leg|:mechanical_leg:|mechanical leg|188|
+|leg|:leg:|leg|189|
+|foot|:foot:|foot|190|
 |ear|:ear:|ear|191|
-|||ear with hearing aid|192|
+|ear_with_hearing_aid|:ear_with_hearing_aid:|ear with hearing aid|192|
 |nose|:nose:|nose|193|
-|||brain|194|
+|brain|:brain:|brain|194|
 |||⊛ anatomical heart|195|
 |||⊛ lungs|196|
-|||tooth|197|
-|||bone|198|
+|tooth|:tooth:|tooth|197|
+|bone|:bone:|bone|198|
 |eyes|:eyes:|eyes|199|
 |eye|:eye:|eye|200|
 |tongue|:tongue:|tongue|201|
 |lips|:lips:|mouth|202|
 |baby|:baby:|baby|203|
-|||child|204|
+|child|:child:|child|204|
 |boy|:boy:|boy|205|
 |girl|:girl:|girl|206|
-|||person|207|
-|blonde_man|:blonde_man:|person: blond hair|208|
+|adult|:adult:|person|207|
+|blond_haired_man|:blond_haired_man:|person: blond hair|208|
 |man|:man:|man|209|
-|||man: beard|210|
-|||man: red hair|211|
-|||man: curly hair|212|
-|||man: white hair|213|
-|||man: bald|214|
+|bearded_person|:bearded_person:|man: beard|210|
+|red_haired_man|:red_haired_man:|man: red hair|211|
+|curly_haired_man|:curly_haired_man:|man: curly hair|212|
+|white_haired_man|:white_haired_man:|man: white hair|213|
+|bald_man|:bald_man:|man: bald|214|
 |woman|:woman:|woman|215|
-|||woman: red hair|216|
-|||person: red hair|217|
-|||woman: curly hair|218|
-|||person: curly hair|219|
-|||woman: white hair|220|
-|||person: white hair|221|
-|||woman: bald|222|
-|||person: bald|223|
-|blonde_woman|:blonde_woman:|woman: blond hair|224|
-|||man: blond hair|225|
-|||older person|226|
+|red_haired_woman|:red_haired_woman:|woman: red hair|216|
+|person_red_hair|:person_red_hair:|person: red hair|217|
+|curly_haired_woman|:curly_haired_woman:|woman: curly hair|218|
+|person_curly_hair|:person_curly_hair:|person: curly hair|219|
+|white_haired_woman|:white_haired_woman:|woman: white hair|220|
+|person_white_hair|:person_white_hair:|person: white hair|221|
+|bald_woman|:bald_woman:|woman: bald|222|
+|person_bald|:person_bald:|person: bald|223|
+|blond_haired_woman|:blond_haired_woman:|woman: blond hair|224|
+|blond_haired_man|:blond_haired_man:|man: blond hair|225|
+|older_adult|:older_adult:|older person|226|
 |older_man|:older_man:|old man|227|
 |older_woman|:older_woman:|old woman|228|
 |frowning_man|:frowning_man:|person frowning|229|
 |frowning_man|:frowning_man:|man frowning|230|
-|||woman frowning|231|
-|person_with_pouting_face|:person_with_pouting_face:|person pouting|232|
+|frowning_woman|:frowning_woman:|woman frowning|231|
+|pouting_face|:pouting_face:|person pouting|232|
 |pouting_man|:pouting_man:|man pouting|233|
-|||woman pouting|234|
+|pouting_woman|:pouting_woman:|woman pouting|234|
 |ng_man|:ng_man:|person gesturing NO|235|
 |ng_man|:ng_man:|man gesturing NO|236|
-|||woman gesturing NO|237|
+|ng_woman|:ng_woman:|woman gesturing NO|237|
 |ok_man|:ok_man:|person gesturing OK|238|
 |ok_man|:ok_man:|man gesturing OK|239|
-|||woman gesturing OK|240|
+|ok_woman|:ok_woman:|woman gesturing OK|240|
 |information_desk_person|:information_desk_person:|person tipping hand|241|
 |sassy_man|:sassy_man:|man tipping hand|242|
-|||woman tipping hand|243|
+|sassy_woman|:sassy_woman:|woman tipping hand|243|
 |raising_hand|:raising_hand:|person raising hand|244|
 |raising_hand_man|:raising_hand_man:|man raising hand|245|
-|||woman raising hand|246|
-|||deaf person|247|
-|||deaf man|248|
-|||deaf woman|249|
+|raising_hand_woman|:raising_hand_woman:|woman raising hand|246|
+|deaf_man|:deaf_man:|deaf person|247|
+|deaf_man|:deaf_man:|deaf man|248|
+|deaf_woman|:deaf_woman:|deaf woman|249|
 |bow|:bow:|person bowing|250|
-|||man bowing|251|
+|bowing_man|:bowing_man:|man bowing|251|
 |bowing_woman|:bowing_woman:|woman bowing|252|
-|man_facepalming|:man_facepalming:|person facepalming|253|
+|facepalm|:facepalm:|person facepalming|253|
 |man_facepalming|:man_facepalming:|man facepalming|254|
 |woman_facepalming|:woman_facepalming:|woman facepalming|255|
 |man_shrugging|:man_shrugging:|person shrugging|256|
 |man_shrugging|:man_shrugging:|man shrugging|257|
 |woman_shrugging|:woman_shrugging:|woman shrugging|258|
-|||health worker|259|
+|health_worker|:health_worker:|health worker|259|
 |man_health_worker|:man_health_worker:|man health worker|260|
 |woman_health_worker|:woman_health_worker:|woman health worker|261|
-|||student|262|
+|student|:student:|student|262|
 |man_student|:man_student:|man student|263|
 |woman_student|:woman_student:|woman student|264|
-|||teacher|265|
+|teacher|:teacher:|teacher|265|
 |man_teacher|:man_teacher:|man teacher|266|
 |woman_teacher|:woman_teacher:|woman teacher|267|
-|||judge|268|
+|judge|:judge:|judge|268|
 |man_judge|:man_judge:|man judge|269|
 |woman_judge|:woman_judge:|woman judge|270|
-|||farmer|271|
+|farmer|:farmer:|farmer|271|
 |man_farmer|:man_farmer:|man farmer|272|
 |woman_farmer|:woman_farmer:|woman farmer|273|
-|||cook|274|
+|cook|:cook:|cook|274|
 |man_cook|:man_cook:|man cook|275|
 |woman_cook|:woman_cook:|woman cook|276|
-|||mechanic|277|
+|mechanic|:mechanic:|mechanic|277|
 |man_mechanic|:man_mechanic:|man mechanic|278|
 |woman_mechanic|:woman_mechanic:|woman mechanic|279|
-|||factory worker|280|
+|factory_worker|:factory_worker:|factory worker|280|
 |man_factory_worker|:man_factory_worker:|man factory worker|281|
 |woman_factory_worker|:woman_factory_worker:|woman factory worker|282|
-|||office worker|283|
+|office_worker|:office_worker:|office worker|283|
 |man_office_worker|:man_office_worker:|man office worker|284|
 |woman_office_worker|:woman_office_worker:|woman office worker|285|
-|||scientist|286|
+|scientist|:scientist:|scientist|286|
 |man_scientist|:man_scientist:|man scientist|287|
 |woman_scientist|:woman_scientist:|woman scientist|288|
-|||technologist|289|
+|technologist|:technologist:|technologist|289|
 |man_technologist|:man_technologist:|man technologist|290|
 |woman_technologist|:woman_technologist:|woman technologist|291|
-|||singer|292|
+|singer|:singer:|singer|292|
 |man_singer|:man_singer:|man singer|293|
 |woman_singer|:woman_singer:|woman singer|294|
-|||artist|295|
+|artist|:artist:|artist|295|
 |man_artist|:man_artist:|man artist|296|
 |woman_artist|:woman_artist:|woman artist|297|
-|||pilot|298|
+|pilot|:pilot:|pilot|298|
 |man_pilot|:man_pilot:|man pilot|299|
 |woman_pilot|:woman_pilot:|woman pilot|300|
-|||astronaut|301|
+|astronaut|:astronaut:|astronaut|301|
 |man_astronaut|:man_astronaut:|man astronaut|302|
 |woman_astronaut|:woman_astronaut:|woman astronaut|303|
-|||firefighter|304|
+|firefighter|:firefighter:|firefighter|304|
 |man_firefighter|:man_firefighter:|man firefighter|305|
 |woman_firefighter|:woman_firefighter:|woman firefighter|306|
 |cop|:cop:|police officer|307|
-|||man police officer|308|
+|policeman|:policeman:|man police officer|308|
 |policewoman|:policewoman:|woman police officer|309|
 |detective|:detective:|detective|310|
-|||man detective|311|
+|male_detective|:male_detective:|man detective|311|
 |female_detective|:female_detective:|woman detective|312|
-|guardsman|:guardsman:|guard|313|
-|||man guard|314|
+|guard|:guard:|guard|313|
+|guardsman|:guardsman:|man guard|314|
 |guardswoman|:guardswoman:|woman guard|315|
 |||⊛ ninja|316|
 |construction_worker|:construction_worker:|construction worker|317|
-|||man construction worker|318|
+|construction_worker_man|:construction_worker_man:|man construction worker|318|
 |construction_worker_woman|:construction_worker_woman:|woman construction worker|319|
 |prince|:prince:|prince|320|
 |princess|:princess:|princess|321|
 |man_with_turban|:man_with_turban:|person wearing turban|322|
-|||man wearing turban|323|
+|man_with_turban|:man_with_turban:|man wearing turban|323|
 |woman_with_turban|:woman_with_turban:|woman wearing turban|324|
 |man_with_gua_pi_mao|:man_with_gua_pi_mao:|person with skullcap|325|
-|||woman with headscarf|326|
+|woman_with_headscarf|:woman_with_headscarf:|woman with headscarf|326|
 |man_in_tuxedo|:man_in_tuxedo:|person in tuxedo|327|
 |||⊛ man in tuxedo|328|
 |||⊛ woman in tuxedo|329|
@@ -335,7 +335,7 @@
 |||⊛ man with veil|331|
 |||⊛ woman with veil|332|
 |pregnant_woman|:pregnant_woman:|pregnant woman|333|
-|||breast-feeding|334|
+|breast_feeding|:breast_feeding:|breast-feeding|334|
 |||⊛ woman feeding baby|335|
 |||⊛ man feeding baby|336|
 |||⊛ person feeding baby|337|
@@ -343,101 +343,101 @@
 |santa|:santa:|Santa Claus|339|
 |mrs_claus|:mrs_claus:|Mrs. Claus|340|
 |||⊛ mx claus|341|
-|||superhero|342|
-|||man superhero|343|
-|||woman superhero|344|
-|||supervillain|345|
-|||man supervillain|346|
-|||woman supervillain|347|
-|||mage|348|
-|||man mage|349|
-|||woman mage|350|
-|||fairy|351|
-|||man fairy|352|
-|||woman fairy|353|
-|||vampire|354|
-|||man vampire|355|
-|||woman vampire|356|
-|||merperson|357|
-|||merman|358|
-|||mermaid|359|
-|||elf|360|
-|||man elf|361|
-|||woman elf|362|
-|||genie|363|
-|||man genie|364|
-|||woman genie|365|
-|||zombie|366|
-|||man zombie|367|
-|||woman zombie|368|
+|superhero|:superhero:|superhero|342|
+|superhero_man|:superhero_man:|man superhero|343|
+|superhero_woman|:superhero_woman:|woman superhero|344|
+|supervillain|:supervillain:|supervillain|345|
+|supervillain_man|:supervillain_man:|man supervillain|346|
+|supervillain_woman|:supervillain_woman:|woman supervillain|347|
+|mage|:mage:|mage|348|
+|mage_man|:mage_man:|man mage|349|
+|mage_woman|:mage_woman:|woman mage|350|
+|fairy|:fairy:|fairy|351|
+|fairy_man|:fairy_man:|man fairy|352|
+|fairy_woman|:fairy_woman:|woman fairy|353|
+|vampire|:vampire:|vampire|354|
+|vampire_man|:vampire_man:|man vampire|355|
+|vampire_woman|:vampire_woman:|woman vampire|356|
+|merman|:merman:|merperson|357|
+|merman|:merman:|merman|358|
+|mermaid|:mermaid:|mermaid|359|
+|elf|:elf:|elf|360|
+|elf_man|:elf_man:|man elf|361|
+|elf_woman|:elf_woman:|woman elf|362|
+|genie|:genie:|genie|363|
+|genie_man|:genie_man:|man genie|364|
+|genie_woman|:genie_woman:|woman genie|365|
+|zombie|:zombie:|zombie|366|
+|zombie_man|:zombie_man:|man zombie|367|
+|zombie_woman|:zombie_woman:|woman zombie|368|
 |massage|:massage:|person getting massage|369|
 |massage_man|:massage_man:|man getting massage|370|
-|||woman getting massage|371|
+|massage_woman|:massage_woman:|woman getting massage|371|
 |haircut|:haircut:|person getting haircut|372|
 |haircut_man|:haircut_man:|man getting haircut|373|
-|||woman getting haircut|374|
+|haircut_woman|:haircut_woman:|woman getting haircut|374|
 |walking|:walking:|person walking|375|
-|||man walking|376|
+|walking_man|:walking_man:|man walking|376|
 |walking_woman|:walking_woman:|woman walking|377|
-|||person standing|378|
-|||man standing|379|
-|||woman standing|380|
-|||person kneeling|381|
-|||man kneeling|382|
-|||woman kneeling|383|
-|||person with white cane|384|
-|||man with white cane|385|
-|||woman with white cane|386|
-|||person in motorized wheelchair|387|
-|||man in motorized wheelchair|388|
-|||woman in motorized wheelchair|389|
-|||person in manual wheelchair|390|
-|||man in manual wheelchair|391|
-|||woman in manual wheelchair|392|
+|standing_man|:standing_man:|person standing|378|
+|standing_man|:standing_man:|man standing|379|
+|standing_woman|:standing_woman:|woman standing|380|
+|kneeling_man|:kneeling_man:|person kneeling|381|
+|kneeling_man|:kneeling_man:|man kneeling|382|
+|kneeling_woman|:kneeling_woman:|woman kneeling|383|
+|person_with_probing_cane|:person_with_probing_cane:|person with white cane|384|
+|man_with_probing_cane|:man_with_probing_cane:|man with white cane|385|
+|woman_with_probing_cane|:woman_with_probing_cane:|woman with white cane|386|
+|person_in_motorized_wheelchair|:person_in_motorized_wheelchair:|person in motorized wheelchair|387|
+|man_in_motorized_wheelchair|:man_in_motorized_wheelchair:|man in motorized wheelchair|388|
+|woman_in_motorized_wheelchair|:woman_in_motorized_wheelchair:|woman in motorized wheelchair|389|
+|person_in_manual_wheelchair|:person_in_manual_wheelchair:|person in manual wheelchair|390|
+|man_in_manual_wheelchair|:man_in_manual_wheelchair:|man in manual wheelchair|391|
+|woman_in_manual_wheelchair|:woman_in_manual_wheelchair:|woman in manual wheelchair|392|
 |runner|:runner:|person running|393|
-|||man running|394|
+|running_man|:running_man:|man running|394|
 |running_woman|:running_woman:|woman running|395|
 |dancer|:dancer:|woman dancing|396|
 |man_dancing|:man_dancing:|man dancing|397|
 |business_suit_levitating|:business_suit_levitating:|person in suit levitating|398|
 |dancers|:dancers:|people with bunny ears|399|
 |dancing_men|:dancing_men:|men with bunny ears|400|
-|||women with bunny ears|401|
-|||person in steamy room|402|
-|||man in steamy room|403|
-|||woman in steamy room|404|
-|||person climbing|405|
-|||man climbing|406|
-|||woman climbing|407|
+|dancing_women|:dancing_women:|women with bunny ears|401|
+|sauna_man|:sauna_man:|person in steamy room|402|
+|sauna_man|:sauna_man:|man in steamy room|403|
+|sauna_woman|:sauna_woman:|woman in steamy room|404|
+|climbing|:climbing:|person climbing|405|
+|climbing_man|:climbing_man:|man climbing|406|
+|climbing_woman|:climbing_woman:|woman climbing|407|
 |person_fencing|:person_fencing:|person fencing|408|
 |horse_racing|:horse_racing:|horse racing|409|
 |skier|:skier:|skier|410|
 |snowboarder|:snowboarder:|snowboarder|411|
-|golfing_man|:golfing_man:|person golfing|412|
-|||man golfing|413|
+|golfing|:golfing:|person golfing|412|
+|golfing_man|:golfing_man:|man golfing|413|
 |golfing_woman|:golfing_woman:|woman golfing|414|
 |surfer|:surfer:|person surfing|415|
-|||man surfing|416|
+|surfing_man|:surfing_man:|man surfing|416|
 |surfing_woman|:surfing_woman:|woman surfing|417|
 |rowboat|:rowboat:|person rowing boat|418|
-|||man rowing boat|419|
+|rowing_man|:rowing_man:|man rowing boat|419|
 |rowing_woman|:rowing_woman:|woman rowing boat|420|
 |swimmer|:swimmer:|person swimming|421|
-|||man swimming|422|
+|swimming_man|:swimming_man:|man swimming|422|
 |swimming_woman|:swimming_woman:|woman swimming|423|
 |basketball_man|:basketball_man:|person bouncing ball|424|
-|||man bouncing ball|425|
+|basketball_man|:basketball_man:|man bouncing ball|425|
 |basketball_woman|:basketball_woman:|woman bouncing ball|426|
-|weight_lifting_man|:weight_lifting_man:|person lifting weights|427|
-|||man lifting weights|428|
+|weight_lifting|:weight_lifting:|person lifting weights|427|
+|weight_lifting_man|:weight_lifting_man:|man lifting weights|428|
 |weight_lifting_woman|:weight_lifting_woman:|woman lifting weights|429|
 |bicyclist|:bicyclist:|person biking|430|
-|||man biking|431|
+|biking_man|:biking_man:|man biking|431|
 |biking_woman|:biking_woman:|woman biking|432|
 |mountain_bicyclist|:mountain_bicyclist:|person mountain biking|433|
-|||man mountain biking|434|
+|mountain_biking_man|:mountain_biking_man:|man mountain biking|434|
 |mountain_biking_woman|:mountain_biking_woman:|woman mountain biking|435|
-|man_cartwheeling|:man_cartwheeling:|person cartwheeling|436|
+|cartwheeling|:cartwheeling:|person cartwheeling|436|
 |man_cartwheeling|:man_cartwheeling:|man cartwheeling|437|
 |woman_cartwheeling|:woman_cartwheeling:|woman cartwheeling|438|
 |men_wrestling|:men_wrestling:|people wrestling|439|
@@ -446,22 +446,22 @@
 |man_playing_water_polo|:man_playing_water_polo:|person playing water polo|442|
 |man_playing_water_polo|:man_playing_water_polo:|man playing water polo|443|
 |woman_playing_water_polo|:woman_playing_water_polo:|woman playing water polo|444|
-|man_playing_handball|:man_playing_handball:|person playing handball|445|
+|handball_person|:handball_person:|person playing handball|445|
 |man_playing_handball|:man_playing_handball:|man playing handball|446|
 |woman_playing_handball|:woman_playing_handball:|woman playing handball|447|
-|man_juggling|:man_juggling:|person juggling|448|
+|juggling_person|:juggling_person:|person juggling|448|
 |man_juggling|:man_juggling:|man juggling|449|
 |woman_juggling|:woman_juggling:|woman juggling|450|
-|||person in lotus position|451|
-|||man in lotus position|452|
-|||woman in lotus position|453|
+|lotus_position|:lotus_position:|person in lotus position|451|
+|lotus_position_man|:lotus_position_man:|man in lotus position|452|
+|lotus_position_woman|:lotus_position_woman:|woman in lotus position|453|
 |bath|:bath:|person taking bath|454|
 |sleeping_bed|:sleeping_bed:|person in bed|455|
-|||people holding hands|456|
+|people_holding_hands|:people_holding_hands:|people holding hands|456|
 |two_women_holding_hands|:two_women_holding_hands:|women holding hands|457|
 |couple|:couple:|woman and man holding hands|458|
 |two_men_holding_hands|:two_men_holding_hands:|men holding hands|459|
-|couplekiss_man_woman|:couplekiss_man_woman:|kiss|460|
+|couplekiss|:couplekiss:|kiss|460|
 |couplekiss_man_man|:couplekiss_man_man:|kiss: woman, man|461|
 |couplekiss_man_man|:couplekiss_man_man:|kiss: man, man|462|
 |couplekiss_woman_woman|:couplekiss_woman_woman:|kiss: woman, woman|463|
@@ -507,15 +507,15 @@
 |monkey_face|:monkey_face:|monkey face|503|
 |monkey|:monkey:|monkey|504|
 |gorilla|:gorilla:|gorilla|505|
-|||orangutan|506|
+|orangutan|:orangutan:|orangutan|506|
 |dog|:dog:|dog face|507|
 |dog2|:dog2:|dog|508|
-|||guide dog|509|
-|||service dog|510|
+|guide_dog|:guide_dog:|guide dog|509|
+|service_dog|:service_dog:|service dog|510|
 |poodle|:poodle:|poodle|511|
 |wolf|:wolf:|wolf|512|
 |fox_face|:fox_face:|fox|513|
-|||raccoon|514|
+|raccoon|:raccoon:|raccoon|514|
 |cat|:cat:|cat face|515|
 |cat2|:cat2:|cat|516|
 |||⊛ black cat|517|
@@ -526,7 +526,7 @@
 |horse|:horse:|horse face|522|
 |racehorse|:racehorse:|horse|523|
 |unicorn|:unicorn:|unicorn|524|
-|||zebra|525|
+|zebra|:zebra:|zebra|525|
 |deer|:deer:|deer|526|
 |||⊛ bison|527|
 |cow|:cow:|cow face|528|
@@ -542,12 +542,12 @@
 |goat|:goat:|goat|538|
 |dromedary_camel|:dromedary_camel:|camel|539|
 |camel|:camel:|two-hump camel|540|
-|||llama|541|
-|||giraffe|542|
+|llama|:llama:|llama|541|
+|giraffe|:giraffe:|giraffe|542|
 |elephant|:elephant:|elephant|543|
 |||⊛ mammoth|544|
 |rhinoceros|:rhinoceros:|rhinoceros|545|
-|||hippopotamus|546|
+|hippopotamus|:hippopotamus:|hippopotamus|546|
 |mouse|:mouse:|mouse face|547|
 |mouse2|:mouse2:|mouse|548|
 |rat|:rat:|rat|549|
@@ -556,17 +556,17 @@
 |rabbit2|:rabbit2:|rabbit|552|
 |chipmunk|:chipmunk:|chipmunk|553|
 |||⊛ beaver|554|
-|||hedgehog|555|
+|hedgehog|:hedgehog:|hedgehog|555|
 |bat|:bat:|bat|556|
 |bear|:bear:|bear|557|
 |||⊛ polar bear|558|
 |koala|:koala:|koala|559|
 |panda_face|:panda_face:|panda|560|
-|||sloth|561|
-|||otter|562|
-|||skunk|563|
-|||kangaroo|564|
-|||badger|565|
+|sloth|:sloth:|sloth|561|
+|otter|:otter:|otter|562|
+|skunk|:skunk:|skunk|563|
+|kangaroo|:kangaroo:|kangaroo|564|
+|badger|:badger:|badger|565|
 |feet|:feet:|paw prints|566|
 |turkey|:turkey:|turkey|567|
 |chicken|:chicken:|chicken|568|
@@ -579,13 +579,13 @@
 |dove|:dove:|dove|575|
 |eagle|:eagle:|eagle|576|
 |duck|:duck:|duck|577|
-|||swan|578|
+|swan|:swan:|swan|578|
 |owl|:owl:|owl|579|
 |||⊛ dodo|580|
 |||⊛ feather|581|
-|||flamingo|582|
-|||peacock|583|
-|||parrot|584|
+|flamingo|:flamingo:|flamingo|582|
+|peacock|:peacock:|peacock|583|
+|parrot|:parrot:|parrot|584|
 |frog|:frog:|frog|585|
 |crocodile|:crocodile:|crocodile|586|
 |turtle|:turtle:|turtle|587|
@@ -593,8 +593,8 @@
 |snake|:snake:|snake|589|
 |dragon_face|:dragon_face:|dragon face|590|
 |dragon|:dragon:|dragon|591|
-|||sauropod|592|
-|||T-Rex|593|
+|sauropod|:sauropod:|sauropod|592|
+|t-rex|:t-rex:|T-Rex|593|
 |whale|:whale:|spouting whale|594|
 |whale2|:whale2:|whale|595|
 |dolphin|:dolphin:|dolphin|596|
@@ -612,15 +612,15 @@
 |bee|:bee:|honeybee|608|
 |||⊛ beetle|609|
 |beetle|:beetle:|lady beetle|610|
-|||cricket|611|
+|cricket|:cricket:|cricket|611|
 |||⊛ cockroach|612|
 |spider|:spider:|spider|613|
 |spider_web|:spider_web:|spider web|614|
 |scorpion|:scorpion:|scorpion|615|
-|||mosquito|616|
+|mosquito|:mosquito:|mosquito|616|
 |||⊛ fly|617|
 |||⊛ worm|618|
-|||microbe|619|
+|microbe|:microbe:|microbe|619|
 |bouquet|:bouquet:|bouquet|620|
 |cherry_blossom|:cherry_blossom:|cherry blossom|621|
 |white_flower|:white_flower:|white flower|622|
@@ -651,7 +651,7 @@
 |lemon|:lemon:|lemon|647|
 |banana|:banana:|banana|648|
 |pineapple|:pineapple:|pineapple|649|
-|||mango|650|
+|mango|:mango:|mango|650|
 |apple|:apple:|red apple|651|
 |green_apple|:green_apple:|green apple|652|
 |pear|:pear:|pear|653|
@@ -662,7 +662,7 @@
 |kiwi_fruit|:kiwi_fruit:|kiwi fruit|658|
 |tomato|:tomato:|tomato|659|
 |||⊛ olive|660|
-|||coconut|661|
+|coconut|:coconut:|coconut|661|
 |avocado|:avocado:|avocado|662|
 |eggplant|:eggplant:|eggplant|663|
 |potato|:potato:|potato|664|
@@ -671,10 +671,10 @@
 |hot_pepper|:hot_pepper:|hot pepper|667|
 |||⊛ bell pepper|668|
 |cucumber|:cucumber:|cucumber|669|
-|||leafy green|670|
-|||broccoli|671|
-|||garlic|672|
-|||onion|673|
+|leafy_green|:leafy_green:|leafy green|670|
+|broccoli|:broccoli:|broccoli|671|
+|garlic|:garlic:|garlic|672|
+|onion|:onion:|onion|673|
 |mushroom|:mushroom:|mushroom|674|
 |peanuts|:peanuts:|peanuts|675|
 |chestnut|:chestnut:|chestnut|676|
@@ -682,36 +682,36 @@
 |croissant|:croissant:|croissant|678|
 |baguette_bread|:baguette_bread:|baguette bread|679|
 |||⊛ flatbread|680|
-|||pretzel|681|
-|||bagel|682|
+|pretzel|:pretzel:|pretzel|681|
+|bagel|:bagel:|bagel|682|
 |pancakes|:pancakes:|pancakes|683|
-|||waffle|684|
+|waffle|:waffle:|waffle|684|
 |cheese|:cheese:|cheese wedge|685|
 |meat_on_bone|:meat_on_bone:|meat on bone|686|
 |poultry_leg|:poultry_leg:|poultry leg|687|
-|||cut of meat|688|
+|cut_of_meat|:cut_of_meat:|cut of meat|688|
 |bacon|:bacon:|bacon|689|
 |hamburger|:hamburger:|hamburger|690|
 |fries|:fries:|french fries|691|
 |pizza|:pizza:|pizza|692|
 |hotdog|:hotdog:|hot dog|693|
-|||sandwich|694|
+|sandwich|:sandwich:|sandwich|694|
 |taco|:taco:|taco|695|
 |burrito|:burrito:|burrito|696|
 |||⊛ tamale|697|
 |stuffed_flatbread|:stuffed_flatbread:|stuffed flatbread|698|
-|||falafel|699|
+|falafel|:falafel:|falafel|699|
 |egg|:egg:|egg|700|
 |fried_egg|:fried_egg:|cooking|701|
 |shallow_pan_of_food|:shallow_pan_of_food:|shallow pan of food|702|
 |stew|:stew:|pot of food|703|
 |||⊛ fondue|704|
-|||bowl with spoon|705|
+|bowl_with_spoon|:bowl_with_spoon:|bowl with spoon|705|
 |green_salad|:green_salad:|green salad|706|
 |popcorn|:popcorn:|popcorn|707|
-|||butter|708|
-|||salt|709|
-|||canned food|710|
+|butter|:butter:|butter|708|
+|salt|:salt:|salt|709|
+|canned_food|:canned_food:|canned food|710|
 |bento|:bento:|bento box|711|
 |rice_cracker|:rice_cracker:|rice cracker|712|
 |rice_ball|:rice_ball:|rice ball|713|
@@ -724,16 +724,16 @@
 |sushi|:sushi:|sushi|720|
 |fried_shrimp|:fried_shrimp:|fried shrimp|721|
 |fish_cake|:fish_cake:|fish cake with swirl|722|
-|||moon cake|723|
+|moon_cake|:moon_cake:|moon cake|723|
 |dango|:dango:|dango|724|
-|||dumpling|725|
-|||fortune cookie|726|
-|||takeout box|727|
+|dumpling|:dumpling:|dumpling|725|
+|fortune_cookie|:fortune_cookie:|fortune cookie|726|
+|takeout_box|:takeout_box:|takeout box|727|
 |crab|:crab:|crab|728|
-|||lobster|729|
+|lobster|:lobster:|lobster|729|
 |shrimp|:shrimp:|shrimp|730|
 |squid|:squid:|squid|731|
-|||oyster|732|
+|oyster|:oyster:|oyster|732|
 |icecream|:icecream:|soft ice cream|733|
 |shaved_ice|:shaved_ice:|shaved ice|734|
 |ice_cream|:ice_cream:|ice cream|735|
@@ -741,8 +741,8 @@
 |cookie|:cookie:|cookie|737|
 |birthday|:birthday:|birthday cake|738|
 |cake|:cake:|shortcake|739|
-|||cupcake|740|
-|||pie|741|
+|cupcake|:cupcake:|cupcake|740|
+|pie|:pie:|pie|741|
 |chocolate_bar|:chocolate_bar:|chocolate bar|742|
 |candy|:candy:|candy|743|
 |lollipop|:lollipop:|lollipop|744|
@@ -762,12 +762,12 @@
 |beers|:beers:|clinking beer mugs|758|
 |clinking_glasses|:clinking_glasses:|clinking glasses|759|
 |tumbler_glass|:tumbler_glass:|tumbler glass|760|
-|||cup with straw|761|
+|cup_with_straw|:cup_with_straw:|cup with straw|761|
 |||⊛ bubble tea|762|
-|||beverage box|763|
-|||mate|764|
-|||ice|765|
-|||chopsticks|766|
+|beverage_box|:beverage_box:|beverage box|763|
+|mate|:mate:|mate|764|
+|ice_cube|:ice_cube:|ice|765|
+|chopsticks|:chopsticks:|chopsticks|766|
 |plate_with_cutlery|:plate_with_cutlery:|fork and knife with plate|767|
 |fork_and_knife|:fork_and_knife:|fork and knife|768|
 |spoon|:spoon:|spoon|769|
@@ -779,7 +779,7 @@
 |globe_with_meridians|:globe_with_meridians:|globe with meridians|775|
 |world_map|:world_map:|world map|776|
 |japan|:japan:|map of Japan|777|
-|||compass|778|
+|compass|:compass:|compass|778|
 |mountain_snow|:mountain_snow:|snow-capped mountain|779|
 |mountain|:mountain:|mountain|780|
 |volcano|:volcano:|volcano|781|
@@ -792,7 +792,7 @@
 |stadium|:stadium:|stadium|788|
 |classical_building|:classical_building:|classical building|789|
 |building_construction|:building_construction:|building construction|790|
-|||brick|791|
+|bricks|:bricks:|brick|791|
 |||⊛ rock|792|
 |||⊛ wood|793|
 |||⊛ hut|794|
@@ -818,7 +818,7 @@
 |statue_of_liberty|:statue_of_liberty:|Statue of Liberty|814|
 |church|:church:|church|815|
 |mosque|:mosque:|mosque|816|
-|||hindu temple|817|
+|hindu_temple|:hindu_temple:|hindu temple|817|
 |synagogue|:synagogue:|synagogue|818|
 |shinto_shrine|:shinto_shrine:|shinto shrine|819|
 |kaaba|:kaaba:|kaaba|820|
@@ -870,12 +870,12 @@
 |racing_car|:racing_car:|racing car|866|
 |motorcycle|:motorcycle:|motorcycle|867|
 |motor_scooter|:motor_scooter:|motor scooter|868|
-|||manual wheelchair|869|
-|||motorized wheelchair|870|
-|||auto rickshaw|871|
+|manual_wheelchair|:manual_wheelchair:|manual wheelchair|869|
+|motorized_wheelchair|:motorized_wheelchair:|motorized wheelchair|870|
+|auto_rickshaw|:auto_rickshaw:|auto rickshaw|871|
 |bike|:bike:|bicycle|872|
 |kick_scooter|:kick_scooter:|kick scooter|873|
-|||skateboard|874|
+|skateboard|:skateboard:|skateboard|874|
 |||⊛ roller skate|875|
 |busstop|:busstop:|bus stop|876|
 |motorway|:motorway:|motorway|877|
@@ -899,7 +899,7 @@
 |small_airplane|:small_airplane:|small airplane|895|
 |flight_departure|:flight_departure:|airplane departure|896|
 |flight_arrival|:flight_arrival:|airplane arrival|897|
-|||parachute|898|
+|parachute|:parachute:|parachute|898|
 |seat|:seat:|seat|899|
 |helicopter|:helicopter:|helicopter|900|
 |suspension_railway|:suspension_railway:|suspension railway|901|
@@ -907,9 +907,9 @@
 |aerial_tramway|:aerial_tramway:|aerial tramway|903|
 |artificial_satellite|:artificial_satellite:|satellite|904|
 |rocket|:rocket:|rocket|905|
-|||flying saucer|906|
+|flying_saucer|:flying_saucer:|flying saucer|906|
 |bellhop_bell|:bellhop_bell:|bellhop bell|907|
-|||luggage|908|
+|luggage|:luggage:|luggage|908|
 |hourglass|:hourglass:|hourglass done|909|
 |hourglass_flowing_sand|:hourglass_flowing_sand:|hourglass not done|910|
 |watch|:watch:|watch|911|
@@ -957,7 +957,7 @@
 |sunny|:sunny:|sun|953|
 |full_moon_with_face|:full_moon_with_face:|full moon face|954|
 |sun_with_face|:sun_with_face:|sun with face|955|
-|||ringed planet|956|
+|ringed_planet|:ringed_planet:|ringed planet|956|
 |star|:star:|star|957|
 |star2|:star2:|glowing star|958|
 |stars|:stars:|shooting star|959|
@@ -992,7 +992,7 @@
 |christmas_tree|:christmas_tree:|Christmas tree|988|
 |fireworks|:fireworks:|fireworks|989|
 |sparkler|:sparkler:|sparkler|990|
-|||firecracker|991|
+|firecracker|:firecracker:|firecracker|991|
 |sparkles|:sparkles:|sparkles|992|
 |balloon|:balloon:|balloon|993|
 |tada|:tada:|party popper|994|
@@ -1003,7 +1003,7 @@
 |flags|:flags:|carp streamer|999|
 |wind_chime|:wind_chime:|wind chime|1000|
 |rice_scene|:rice_scene:|moon viewing ceremony|1001|
-|||red envelope|1002|
+|red_envelope|:red_envelope:|red envelope|1002|
 |ribbon|:ribbon:|ribbon|1003|
 |gift|:gift:|wrapped gift|1004|
 |reminder_ribbon|:reminder_ribbon:|reminder ribbon|1005|
@@ -1017,18 +1017,18 @@
 |3rd_place_medal|:3rd_place_medal:|3rd place medal|1013|
 |soccer|:soccer:|soccer ball|1014|
 |baseball|:baseball:|baseball|1015|
-|||softball|1016|
+|softball|:softball:|softball|1016|
 |basketball|:basketball:|basketball|1017|
 |volleyball|:volleyball:|volleyball|1018|
 |football|:football:|american football|1019|
 |rugby_football|:rugby_football:|rugby football|1020|
 |tennis|:tennis:|tennis|1021|
-|||flying disc|1022|
+|flying_disc|:flying_disc:|flying disc|1022|
 |bowling|:bowling:|bowling|1023|
-|cricket|:cricket:|cricket game|1024|
+|cricket_game|:cricket_game:|cricket game|1024|
 |field_hockey|:field_hockey:|field hockey|1025|
 |ice_hockey|:ice_hockey:|ice hockey|1026|
-|||lacrosse|1027|
+|lacrosse|:lacrosse:|lacrosse|1027|
 |ping_pong|:ping_pong:|ping pong|1028|
 |badminton|:badminton:|badminton|1029|
 |boxing_glove|:boxing_glove:|boxing glove|1030|
@@ -1037,59 +1037,59 @@
 |golf|:golf:|flag in hole|1033|
 |ice_skate|:ice_skate:|ice skate|1034|
 |fishing_pole_and_fish|:fishing_pole_and_fish:|fishing pole|1035|
-|||diving mask|1036|
+|diving_mask|:diving_mask:|diving mask|1036|
 |running_shirt_with_sash|:running_shirt_with_sash:|running shirt|1037|
 |ski|:ski:|skis|1038|
-|||sled|1039|
-|||curling stone|1040|
+|sled|:sled:|sled|1039|
+|curling_stone|:curling_stone:|curling stone|1040|
 |dart|:dart:|direct hit|1041|
-|||yo-yo|1042|
-|||kite|1043|
+|yo_yo|:yo_yo:|yo-yo|1042|
+|kite|:kite:|kite|1043|
 |8ball|:8ball:|pool 8 ball|1044|
 |crystal_ball|:crystal_ball:|crystal ball|1045|
 |||⊛ magic wand|1046|
-|||nazar amulet|1047|
+|nazar_amulet|:nazar_amulet:|nazar amulet|1047|
 |video_game|:video_game:|video game|1048|
 |joystick|:joystick:|joystick|1049|
 |slot_machine|:slot_machine:|slot machine|1050|
 |game_die|:game_die:|game die|1051|
-|||puzzle piece|1052|
-|||teddy bear|1053|
+|jigsaw|:jigsaw:|puzzle piece|1052|
+|teddy_bear|:teddy_bear:|teddy bear|1053|
 |||⊛ piñata|1054|
 |||⊛ nesting dolls|1055|
 |spades|:spades:|spade suit|1056|
 |hearts|:hearts:|heart suit|1057|
 |diamonds|:diamonds:|diamond suit|1058|
 |clubs|:clubs:|club suit|1059|
-|||chess pawn|1060|
+|chess_pawn|:chess_pawn:|chess pawn|1060|
 |black_joker|:black_joker:|joker|1061|
 |mahjong|:mahjong:|mahjong red dragon|1062|
 |flower_playing_cards|:flower_playing_cards:|flower playing cards|1063|
 |performing_arts|:performing_arts:|performing arts|1064|
 |framed_picture|:framed_picture:|framed picture|1065|
 |art|:art:|artist palette|1066|
-|||thread|1067|
+|thread|:thread:|thread|1067|
 |||⊛ sewing needle|1068|
-|||yarn|1069|
+|yarn|:yarn:|yarn|1069|
 |||⊛ knot|1070|
 |eyeglasses|:eyeglasses:|glasses|1071|
 |dark_sunglasses|:dark_sunglasses:|sunglasses|1072|
-|||goggles|1073|
-|||lab coat|1074|
-|||safety vest|1075|
+|goggles|:goggles:|goggles|1073|
+|lab_coat|:lab_coat:|lab coat|1074|
+|safety_vest|:safety_vest:|safety vest|1075|
 |necktie|:necktie:|necktie|1076|
 |shirt|:shirt:|t-shirt|1077|
 |jeans|:jeans:|jeans|1078|
-|||scarf|1079|
-|||gloves|1080|
-|||coat|1081|
-|||socks|1082|
+|scarf|:scarf:|scarf|1079|
+|gloves|:gloves:|gloves|1080|
+|coat|:coat:|coat|1081|
+|socks|:socks:|socks|1082|
 |dress|:dress:|dress|1083|
 |kimono|:kimono:|kimono|1084|
-|||sari|1085|
-|||one-piece swimsuit|1086|
-|||briefs|1087|
-|||shorts|1088|
+|sari|:sari:|sari|1085|
+|one_piece_swimsuit|:one_piece_swimsuit:|one-piece swimsuit|1086|
+|swim_brief|:swim_brief:|briefs|1087|
+|shorts|:shorts:|shorts|1088|
 |bikini|:bikini:|bikini|1089|
 |womans_clothes|:womans_clothes:|woman’s clothes|1090|
 |purse|:purse:|purse|1091|
@@ -1100,17 +1100,17 @@
 |||⊛ thong sandal|1096|
 |mans_shoe|:mans_shoe:|man’s shoe|1097|
 |athletic_shoe|:athletic_shoe:|running shoe|1098|
-|||hiking boot|1099|
-|||flat shoe|1100|
+|hiking_boot|:hiking_boot:|hiking boot|1099|
+|flat_shoe|:flat_shoe:|flat shoe|1100|
 |high_heel|:high_heel:|high-heeled shoe|1101|
 |sandal|:sandal:|woman’s sandal|1102|
-|||ballet shoes|1103|
+|ballet_shoes|:ballet_shoes:|ballet shoes|1103|
 |boot|:boot:|woman’s boot|1104|
 |crown|:crown:|crown|1105|
 |womans_hat|:womans_hat:|woman’s hat|1106|
 |tophat|:tophat:|top hat|1107|
 |mortar_board|:mortar_board:|graduation cap|1108|
-|||billed cap|1109|
+|billed_cap|:billed_cap:|billed cap|1109|
 |||⊛ military helmet|1110|
 |rescue_worker_helmet|:rescue_worker_helmet:|rescue worker’s helmet|1111|
 |prayer_beads|:prayer_beads:|prayer beads|1112|
@@ -1141,7 +1141,7 @@
 |musical_keyboard|:musical_keyboard:|musical keyboard|1137|
 |trumpet|:trumpet:|trumpet|1138|
 |violin|:violin:|violin|1139|
-|||banjo|1140|
+|banjo|:banjo:|banjo|1140|
 |drum|:drum:|drum|1141|
 |||⊛ long drum|1142|
 |iphone|:iphone:|mobile phone|1143|
@@ -1162,7 +1162,7 @@
 |floppy_disk|:floppy_disk:|floppy disk|1158|
 |cd|:cd:|optical disk|1159|
 |dvd|:dvd:|dvd|1160|
-|||abacus|1161|
+|abacus|:abacus:|abacus|1161|
 |movie_camera|:movie_camera:|movie camera|1162|
 |film_strip|:film_strip:|film frames|1163|
 |film_projector|:film_projector:|film projector|1164|
@@ -1178,7 +1178,7 @@
 |bulb|:bulb:|light bulb|1174|
 |flashlight|:flashlight:|flashlight|1175|
 |izakaya_lantern|:izakaya_lantern:|red paper lantern|1176|
-|||diya lamp|1177|
+|diya_lamp|:diya_lamp:|diya lamp|1177|
 |notebook_with_decorative_cover|:notebook_with_decorative_cover:|notebook with decorative cover|1178|
 |closed_book|:closed_book:|closed book|1179|
 |book|:book:|open book|1180|
@@ -1204,7 +1204,7 @@
 |pound|:pound:|pound banknote|1200|
 |money_with_wings|:money_with_wings:|money with wings|1201|
 |credit_card|:credit_card:|credit card|1202|
-|||receipt|1203|
+|receipt|:receipt:|receipt|1203|
 |chart|:chart:|chart increasing with yen|1204|
 |email|:email:|envelope|1205|
 |e-mail|:e-mail:|e-mail|1206|
@@ -1256,7 +1256,7 @@
 |key|:key:|key|1252|
 |old_key|:old_key:|old key|1253|
 |hammer|:hammer:|hammer|1254|
-|||axe|1255|
+|axe|:axe:|axe|1255|
 |pick|:pick:|pick|1256|
 |hammer_and_pick|:hammer_and_pick:|hammer and pick|1257|
 |hammer_and_wrench|:hammer_and_wrench:|hammer and wrench|1258|
@@ -1273,48 +1273,48 @@
 |gear|:gear:|gear|1269|
 |clamp|:clamp:|clamp|1270|
 |balance_scale|:balance_scale:|balance scale|1271|
-|||white cane|1272|
+|probing_cane|:probing_cane:|white cane|1272|
 |link|:link:|link|1273|
 |chains|:chains:|chains|1274|
 |||⊛ hook|1275|
-|||toolbox|1276|
-|||magnet|1277|
+|toolbox|:toolbox:|toolbox|1276|
+|magnet|:magnet:|magnet|1277|
 |||⊛ ladder|1278|
 |alembic|:alembic:|alembic|1279|
-|||test tube|1280|
-|||petri dish|1281|
-|||dna|1282|
+|test_tube|:test_tube:|test tube|1280|
+|petri_dish|:petri_dish:|petri dish|1281|
+|dna|:dna:|dna|1282|
 |microscope|:microscope:|microscope|1283|
 |telescope|:telescope:|telescope|1284|
 |satellite|:satellite:|satellite antenna|1285|
 |syringe|:syringe:|syringe|1286|
-|||drop of blood|1287|
+|drop_of_blood|:drop_of_blood:|drop of blood|1287|
 |pill|:pill:|pill|1288|
-|||adhesive bandage|1289|
-|||stethoscope|1290|
+|adhesive_bandage|:adhesive_bandage:|adhesive bandage|1289|
+|stethoscope|:stethoscope:|stethoscope|1290|
 |door|:door:|door|1291|
 |||⊛ elevator|1292|
 |||⊛ mirror|1293|
 |||⊛ window|1294|
 |bed|:bed:|bed|1295|
 |couch_and_lamp|:couch_and_lamp:|couch and lamp|1296|
-|||chair|1297|
+|chair|:chair:|chair|1297|
 |toilet|:toilet:|toilet|1298|
 |||⊛ plunger|1299|
 |shower|:shower:|shower|1300|
 |bathtub|:bathtub:|bathtub|1301|
 |||⊛ mouse trap|1302|
-|||razor|1303|
-|||lotion bottle|1304|
-|||safety pin|1305|
-|||broom|1306|
-|||basket|1307|
-|||roll of paper|1308|
+|razor|:razor:|razor|1303|
+|lotion_bottle|:lotion_bottle:|lotion bottle|1304|
+|safety_pin|:safety_pin:|safety pin|1305|
+|broom|:broom:|broom|1306|
+|basket|:basket:|basket|1307|
+|roll_of_paper|:roll_of_paper:|roll of paper|1308|
 |||⊛ bucket|1309|
-|||soap|1310|
+|soap|:soap:|soap|1310|
 |||⊛ toothbrush|1311|
-|||sponge|1312|
-|||fire extinguisher|1313|
+|sponge|:sponge:|sponge|1312|
+|fire_extinguisher|:fire_extinguisher:|fire extinguisher|1313|
 |shopping_cart|:shopping_cart:|shopping cart|1314|
 |smoking|:smoking:|cigarette|1315|
 |coffin|:coffin:|coffin|1316|
@@ -1411,21 +1411,21 @@
 |pause_button|:pause_button:|pause button|1407|
 |stop_button|:stop_button:|stop button|1408|
 |record_button|:record_button:|record button|1409|
-|||eject button|1410|
+|eject_button|:eject_button:|eject button|1410|
 |cinema|:cinema:|cinema|1411|
 |low_brightness|:low_brightness:|dim button|1412|
 |high_brightness|:high_brightness:|bright button|1413|
 |signal_strength|:signal_strength:|antenna bars|1414|
 |vibration_mode|:vibration_mode:|vibration mode|1415|
 |mobile_phone_off|:mobile_phone_off:|mobile phone off|1416|
-|||female sign|1417|
-|||male sign|1418|
+|female_sign|:female_sign:|female sign|1417|
+|male_sign|:male_sign:|male sign|1418|
 |||⊛ transgender symbol|1419|
 |heavy_multiplication_x|:heavy_multiplication_x:|multiply|1420|
 |heavy_plus_sign|:heavy_plus_sign:|plus|1421|
 |heavy_minus_sign|:heavy_minus_sign:|minus|1422|
 |heavy_division_sign|:heavy_division_sign:|divide|1423|
-|||infinity|1424|
+|infinity|:infinity:|infinity|1424|
 |bangbang|:bangbang:|double exclamation mark|1425|
 |interrobang|:interrobang:|exclamation question mark|1426|
 |question|:question:|question mark|1427|
@@ -1435,7 +1435,7 @@
 |wavy_dash|:wavy_dash:|wavy dash|1431|
 |currency_exchange|:currency_exchange:|currency exchange|1432|
 |heavy_dollar_sign|:heavy_dollar_sign:|heavy dollar sign|1433|
-|||medical symbol|1434|
+|medical_symbol|:medical_symbol:|medical symbol|1434|
 |recycle|:recycle:|recycling symbol|1435|
 |fleur_de_lis|:fleur_de_lis:|fleur-de-lis|1436|
 |trident|:trident:|trident emblem|1437|
@@ -1509,21 +1509,21 @@
 |u55b6|:u55b6:|Japanese “open for business” button|1505|
 |u6e80|:u6e80:|Japanese “no vacancy” button|1506|
 |red_circle|:red_circle:|red circle|1507|
-|||orange circle|1508|
-|||yellow circle|1509|
-|||green circle|1510|
+|orange_circle|:orange_circle:|orange circle|1508|
+|yellow_circle|:yellow_circle:|yellow circle|1509|
+|green_circle|:green_circle:|green circle|1510|
 |large_blue_circle|:large_blue_circle:|blue circle|1511|
-|||purple circle|1512|
-|||brown circle|1513|
+|purple_circle|:purple_circle:|purple circle|1512|
+|brown_circle|:brown_circle:|brown circle|1513|
 |black_circle|:black_circle:|black circle|1514|
 |white_circle|:white_circle:|white circle|1515|
-|||red square|1516|
-|||orange square|1517|
-|||yellow square|1518|
-|||green square|1519|
-|||blue square|1520|
-|||purple square|1521|
-|||brown square|1522|
+|red_square|:red_square:|red square|1516|
+|orange_square|:orange_square:|orange square|1517|
+|yellow_square|:yellow_square:|yellow square|1518|
+|green_square|:green_square:|green square|1519|
+|blue_square|:blue_square:|blue square|1520|
+|purple_square|:purple_square:|purple square|1521|
+|brown_square|:brown_square:|brown square|1522|
 |black_large_square|:black_large_square:|black large square|1523|
 |white_large_square|:white_large_square:|white large square|1524|
 |black_medium_square|:black_medium_square:|black medium square|1525|
@@ -1549,8 +1549,8 @@
 |white_flag|:white_flag:|white flag|1545|
 |rainbow_flag|:rainbow_flag:|rainbow flag|1546|
 |||⊛ transgender flag|1547|
-|||pirate flag|1548|
-|||flag: Ascension Island|1549|
+|pirate_flag|:pirate_flag:|pirate flag|1548|
+|ascension_island|:ascension_island:|flag: Ascension Island|1549|
 |andorra|:andorra:|flag: Andorra|1550|
 |united_arab_emirates|:united_arab_emirates:|flag: United Arab Emirates|1551|
 |afghanistan|:afghanistan:|flag: Afghanistan|1552|
@@ -1584,7 +1584,7 @@
 |brazil|:brazil:|flag: Brazil|1580|
 |bahamas|:bahamas:|flag: Bahamas|1581|
 |bhutan|:bhutan:|flag: Bhutan|1582|
-|||flag: Bouvet Island|1583|
+|bouvet_island|:bouvet_island:|flag: Bouvet Island|1583|
 |botswana|:botswana:|flag: Botswana|1584|
 |belarus|:belarus:|flag: Belarus|1585|
 |belize|:belize:|flag: Belize|1586|
@@ -1600,7 +1600,7 @@
 |cameroon|:cameroon:|flag: Cameroon|1596|
 |cn|:cn:|flag: China|1597|
 |colombia|:colombia:|flag: Colombia|1598|
-|||flag: Clipperton Island|1599|
+|clipperton_island|:clipperton_island:|flag: Clipperton Island|1599|
 |costa_rica|:costa_rica:|flag: Costa Rica|1600|
 |cuba|:cuba:|flag: Cuba|1601|
 |cape_verde|:cape_verde:|flag: Cape Verde|1602|
@@ -1609,13 +1609,13 @@
 |cyprus|:cyprus:|flag: Cyprus|1605|
 |czech_republic|:czech_republic:|flag: Czechia|1606|
 |de|:de:|flag: Germany|1607|
-|||flag: Diego Garcia|1608|
+|diego_garcia|:diego_garcia:|flag: Diego Garcia|1608|
 |djibouti|:djibouti:|flag: Djibouti|1609|
 |denmark|:denmark:|flag: Denmark|1610|
 |dominica|:dominica:|flag: Dominica|1611|
 |dominican_republic|:dominican_republic:|flag: Dominican Republic|1612|
 |algeria|:algeria:|flag: Algeria|1613|
-|||flag: Ceuta & Melilla|1614|
+|ceuta_melilla|:ceuta_melilla:|flag: Ceuta & Melilla|1614|
 |ecuador|:ecuador:|flag: Ecuador|1615|
 |estonia|:estonia:|flag: Estonia|1616|
 |egypt|:egypt:|flag: Egypt|1617|
@@ -1650,7 +1650,7 @@
 |guinea_bissau|:guinea_bissau:|flag: Guinea-Bissau|1646|
 |guyana|:guyana:|flag: Guyana|1647|
 |hong_kong|:hong_kong:|flag: Hong Kong SAR China|1648|
-|||flag: Heard & McDonald Islands|1649|
+|heard_mcdonald_islands|:heard_mcdonald_islands:|flag: Heard & McDonald Islands|1649|
 |honduras|:honduras:|flag: Honduras|1650|
 |croatia|:croatia:|flag: Croatia|1651|
 |haiti|:haiti:|flag: Haiti|1652|
@@ -1696,7 +1696,7 @@
 |monaco|:monaco:|flag: Monaco|1692|
 |moldova|:moldova:|flag: Moldova|1693|
 |montenegro|:montenegro:|flag: Montenegro|1694|
-|||flag: St. Martin|1695|
+|st_martin|:st_martin:|flag: St. Martin|1695|
 |madagascar|:madagascar:|flag: Madagascar|1696|
 |marshall_islands|:marshall_islands:|flag: Marshall Islands|1697|
 |macedonia|:macedonia:|flag: North Macedonia|1698|
@@ -1756,7 +1756,7 @@
 |singapore|:singapore:|flag: Singapore|1752|
 |st_helena|:st_helena:|flag: St. Helena|1753|
 |slovenia|:slovenia:|flag: Slovenia|1754|
-|||flag: Svalbard & Jan Mayen|1755|
+|svalbard_jan_mayen|:svalbard_jan_mayen:|flag: Svalbard & Jan Mayen|1755|
 |slovakia|:slovakia:|flag: Slovakia|1756|
 |sierra_leone|:sierra_leone:|flag: Sierra Leone|1757|
 |san_marino|:san_marino:|flag: San Marino|1758|
@@ -1769,7 +1769,7 @@
 |sint_maarten|:sint_maarten:|flag: Sint Maarten|1765|
 |syria|:syria:|flag: Syria|1766|
 |swaziland|:swaziland:|flag: Eswatini|1767|
-|||flag: Tristan da Cunha|1768|
+|tristan_da_cunha|:tristan_da_cunha:|flag: Tristan da Cunha|1768|
 |turks_caicos_islands|:turks_caicos_islands:|flag: Turks & Caicos Islands|1769|
 |chad|:chad:|flag: Chad|1770|
 |french_southern_territories|:french_southern_territories:|flag: French Southern Territories|1771|
@@ -1788,8 +1788,8 @@
 |tanzania|:tanzania:|flag: Tanzania|1784|
 |ukraine|:ukraine:|flag: Ukraine|1785|
 |uganda|:uganda:|flag: Uganda|1786|
-|||flag: U.S. Outlying Islands|1787|
-|||flag: United Nations|1788|
+|us_outlying_islands|:us_outlying_islands:|flag: U.S. Outlying Islands|1787|
+|united_nations|:united_nations:|flag: United Nations|1788|
 |us|:us:|flag: United States|1789|
 |uruguay|:uruguay:|flag: Uruguay|1790|
 |uzbekistan|:uzbekistan:|flag: Uzbekistan|1791|
@@ -1808,6 +1808,6 @@
 |south_africa|:south_africa:|flag: South Africa|1804|
 |zambia|:zambia:|flag: Zambia|1805|
 |zimbabwe|:zimbabwe:|flag: Zimbabwe|1806|
-|||flag: England|1807|
-|||flag: Scotland|1808|
-|||flag: Wales|1809|
+|england|:england:|flag: England|1807|
+|scotland|:scotland:|flag: Scotland|1808|
+|wales|:wales:|flag: Wales|1809|

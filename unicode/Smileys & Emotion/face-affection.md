@@ -2,9 +2,9 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|||smiling face with hearts|14|
+|smiling_face_with_three_hearts|:smiling_face_with_three_hearts:|smiling face with hearts|14|
 |heart_eyes|:heart_eyes:|smiling face with heart-eyes|15|
-|||star-struck|16|
+|star_struck|:star_struck:|star-struck|16|
 |kissing_heart|:kissing_heart:|face blowing a kiss|17|
 |kissing|:kissing:|kissing face|18|
 |relaxed|:relaxed:|smiling face|19|

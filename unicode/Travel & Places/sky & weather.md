@@ -18,7 +18,7 @@
 |sunny|:sunny:|sun|953|
 |full_moon_with_face|:full_moon_with_face:|full moon face|954|
 |sun_with_face|:sun_with_face:|sun with face|955|
-|||ringed planet|956|
+|ringed_planet|:ringed_planet:|ringed planet|956|
 |star|:star:|star|957|
 |star2|:star2:|glowing star|958|
 |stars|:stars:|shooting star|959|

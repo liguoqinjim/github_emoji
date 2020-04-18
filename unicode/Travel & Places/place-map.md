@@ -8,4 +8,4 @@
 |globe_with_meridians|:globe_with_meridians:|globe with meridians|775|
 |world_map|:world_map:|world map|776|
 |japan|:japan:|map of Japan|777|
-|||compass|778|
+|compass|:compass:|compass|778|

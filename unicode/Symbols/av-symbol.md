@@ -19,7 +19,7 @@
 |pause_button|:pause_button:|pause button|1407|
 |stop_button|:stop_button:|stop button|1408|
 |record_button|:record_button:|record button|1409|
-|||eject button|1410|
+|eject_button|:eject_button:|eject button|1410|
 |cinema|:cinema:|cinema|1411|
 |low_brightness|:low_brightness:|dim button|1412|
 |high_brightness|:high_brightness:|bright button|1413|

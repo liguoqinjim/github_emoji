@@ -2,7 +2,7 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|||medical symbol|1434|
+|medical_symbol|:medical_symbol:|medical symbol|1434|
 |recycle|:recycle:|recycling symbol|1435|
 |fleur_de_lis|:fleur_de_lis:|fleur-de-lis|1436|
 |trident|:trident:|trident emblem|1437|

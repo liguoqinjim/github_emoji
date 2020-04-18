@@ -3,7 +3,7 @@
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
 |hammer|:hammer:|hammer|1254|
-|||axe|1255|
+|axe|:axe:|axe|1255|
 |pick|:pick:|pick|1256|
 |hammer_and_pick|:hammer_and_pick:|hammer and pick|1257|
 |hammer_and_wrench|:hammer_and_wrench:|hammer and wrench|1258|
@@ -20,10 +20,10 @@
 |gear|:gear:|gear|1269|
 |clamp|:clamp:|clamp|1270|
 |balance_scale|:balance_scale:|balance scale|1271|
-|||white cane|1272|
+|probing_cane|:probing_cane:|white cane|1272|
 |link|:link:|link|1273|
 |chains|:chains:|chains|1274|
 |||⊛ hook|1275|
-|||toolbox|1276|
-|||magnet|1277|
+|toolbox|:toolbox:|toolbox|1276|
+|magnet|:magnet:|magnet|1277|
 |||⊛ ladder|1278|

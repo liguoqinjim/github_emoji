@@ -4,7 +4,7 @@
 |---|---|---|---|
 |church|:church:|church|815|
 |mosque|:mosque:|mosque|816|
-|||hindu temple|817|
+|hindu_temple|:hindu_temple:|hindu temple|817|
 |synagogue|:synagogue:|synagogue|818|
 |shinto_shrine|:shinto_shrine:|shinto shrine|819|
 |kaaba|:kaaba:|kaaba|820|

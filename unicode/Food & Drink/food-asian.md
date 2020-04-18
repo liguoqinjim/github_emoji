@@ -14,8 +14,8 @@
 |sushi|:sushi:|sushi|720|
 |fried_shrimp|:fried_shrimp:|fried shrimp|721|
 |fish_cake|:fish_cake:|fish cake with swirl|722|
-|||moon cake|723|
+|moon_cake|:moon_cake:|moon cake|723|
 |dango|:dango:|dango|724|
-|||dumpling|725|
-|||fortune cookie|726|
-|||takeout box|727|
+|dumpling|:dumpling:|dumpling|725|
+|fortune_cookie|:fortune_cookie:|fortune cookie|726|
+|takeout_box|:takeout_box:|takeout box|727|

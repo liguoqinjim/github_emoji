@@ -8,5 +8,5 @@
 |snake|:snake:|snake|589|
 |dragon_face|:dragon_face:|dragon face|590|
 |dragon|:dragon:|dragon|591|
-|||sauropod|592|
-|||T-Rex|593|
+|sauropod|:sauropod:|sauropod|592|
+|t-rex|:t-rex:|T-Rex|593|
