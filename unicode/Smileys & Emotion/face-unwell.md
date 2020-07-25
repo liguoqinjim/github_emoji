@@ -11,5 +11,5 @@
 |hot_face|:hot_face:|hot face|54|
 |cold_face|:cold_face:|cold face|55|
 |woozy_face|:woozy_face:|woozy face|56|
-|dizzy_face|:dizzy_face:|dizzy face|57|
+|dizzy_face|:dizzy_face:|knocked-out face|57|
 |exploding_head|:exploding_head:|exploding head|58|

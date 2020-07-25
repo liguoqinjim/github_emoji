@@ -58,7 +58,7 @@
 |hot_face|:hot_face:|hot face|54|
 |cold_face|:cold_face:|cold face|55|
 |woozy_face|:woozy_face:|woozy face|56|
-|dizzy_face|:dizzy_face:|dizzy face|57|
+|dizzy_face|:dizzy_face:|knocked-out face|57|
 |exploding_head|:exploding_head:|exploding head|58|
 |cowboy_hat_face|:cowboy_hat_face:|cowboy hat face|59|
 |partying_face|:partying_face:|partying face|60|
@@ -211,7 +211,7 @@
 |adult|:adult:|person|207|
 |blond_haired_man|:blond_haired_man:|person: blond hair|208|
 |man|:man:|man|209|
-|bearded_person|:bearded_person:|man: beard|210|
+|bearded_person|:bearded_person:|person: beard|210|
 |red_haired_man|:red_haired_man:|man: red hair|211|
 |curly_haired_man|:curly_haired_man:|man: curly hair|212|
 |white_haired_man|:white_haired_man:|man: white hair|213|
@@ -1262,7 +1262,7 @@
 |hammer_and_wrench|:hammer_and_wrench:|hammer and wrench|1258|
 |dagger|:dagger:|dagger|1259|
 |crossed_swords|:crossed_swords:|crossed swords|1260|
-|gun|:gun:|pistol|1261|
+|gun|:gun:|water pistol|1261|
 |||⊛ boomerang|1262|
 |bow_and_arrow|:bow_and_arrow:|bow and arrow|1263|
 |shield|:shield:|shield|1264|
@@ -1428,10 +1428,10 @@
 |infinity|:infinity:|infinity|1424|
 |bangbang|:bangbang:|double exclamation mark|1425|
 |interrobang|:interrobang:|exclamation question mark|1426|
-|question|:question:|question mark|1427|
+|question|:question:|red question mark|1427|
 |grey_question|:grey_question:|white question mark|1428|
 |grey_exclamation|:grey_exclamation:|white exclamation mark|1429|
-|exclamation|:exclamation:|exclamation mark|1430|
+|exclamation|:exclamation:|red exclamation mark|1430|
 |wavy_dash|:wavy_dash:|wavy dash|1431|
 |currency_exchange|:currency_exchange:|currency exchange|1432|
 |heavy_dollar_sign|:heavy_dollar_sign:|heavy dollar sign|1433|

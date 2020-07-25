@@ -9,7 +9,7 @@
 |hammer_and_wrench|:hammer_and_wrench:|hammer and wrench|1258|
 |dagger|:dagger:|dagger|1259|
 |crossed_swords|:crossed_swords:|crossed swords|1260|
-|gun|:gun:|pistol|1261|
+|gun|:gun:|water pistol|1261|
 |||⊛ boomerang|1262|
 |bow_and_arrow|:bow_and_arrow:|bow and arrow|1263|
 |shield|:shield:|shield|1264|

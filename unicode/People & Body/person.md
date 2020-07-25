@@ -9,7 +9,7 @@
 |adult|:adult:|person|207|
 |blond_haired_man|:blond_haired_man:|person: blond hair|208|
 |man|:man:|man|209|
-|bearded_person|:bearded_person:|man: beard|210|
+|bearded_person|:bearded_person:|person: beard|210|
 |red_haired_man|:red_haired_man:|man: red hair|211|
 |curly_haired_man|:curly_haired_man:|man: curly hair|212|
 |white_haired_man|:white_haired_man:|man: white hair|213|
