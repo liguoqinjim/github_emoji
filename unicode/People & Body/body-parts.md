@@ -2,20 +2,20 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|muscle|:muscle:|flexed biceps|186|
-|mechanical_arm|:mechanical_arm:|mechanical arm|187|
-|mechanical_leg|:mechanical_leg:|mechanical leg|188|
-|leg|:leg:|leg|189|
-|foot|:foot:|foot|190|
-|ear|:ear:|ear|191|
-|ear_with_hearing_aid|:ear_with_hearing_aid:|ear with hearing aid|192|
-|nose|:nose:|nose|193|
-|brain|:brain:|brain|194|
-|||⊛ anatomical heart|195|
-|||⊛ lungs|196|
-|tooth|:tooth:|tooth|197|
-|bone|:bone:|bone|198|
-|eyes|:eyes:|eyes|199|
-|eye|:eye:|eye|200|
-|tongue|:tongue:|tongue|201|
-|lips|:lips:|mouth|202|
+|muscle|:muscle:|flexed biceps|191|
+|mechanical_arm|:mechanical_arm:|mechanical arm|192|
+|mechanical_leg|:mechanical_leg:|mechanical leg|193|
+|leg|:leg:|leg|194|
+|foot|:foot:|foot|195|
+|ear|:ear:|ear|196|
+|ear_with_hearing_aid|:ear_with_hearing_aid:|ear with hearing aid|197|
+|nose|:nose:|nose|198|
+|brain|:brain:|brain|199|
+|||anatomical heart|200|
+|||lungs|201|
+|tooth|:tooth:|tooth|202|
+|bone|:bone:|bone|203|
+|eyes|:eyes:|eyes|204|
+|eye|:eye:|eye|205|
+|tongue|:tongue:|tongue|206|
+|lips|:lips:|mouth|207|

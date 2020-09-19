@@ -2,19 +2,19 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|snail|:snail:|snail|604|
-|butterfly|:butterfly:|butterfly|605|
-|bug|:bug:|bug|606|
-|ant|:ant:|ant|607|
-|bee|:bee:|honeybee|608|
-|||⊛ beetle|609|
-|beetle|:beetle:|lady beetle|610|
-|cricket|:cricket:|cricket|611|
-|||⊛ cockroach|612|
-|spider|:spider:|spider|613|
-|spider_web|:spider_web:|spider web|614|
-|scorpion|:scorpion:|scorpion|615|
-|mosquito|:mosquito:|mosquito|616|
-|||⊛ fly|617|
-|||⊛ worm|618|
-|microbe|:microbe:|microbe|619|
+|snail|:snail:|snail|611|
+|butterfly|:butterfly:|butterfly|612|
+|bug|:bug:|bug|613|
+|ant|:ant:|ant|614|
+|bee|:bee:|honeybee|615|
+|||beetle|616|
+|beetle|:beetle:|lady beetle|617|
+|cricket|:cricket:|cricket|618|
+|||cockroach|619|
+|spider|:spider:|spider|620|
+|spider_web|:spider_web:|spider web|621|
+|scorpion|:scorpion:|scorpion|622|
+|mosquito|:mosquito:|mosquito|623|
+|||fly|624|
+|||worm|625|
+|microbe|:microbe:|microbe|626|

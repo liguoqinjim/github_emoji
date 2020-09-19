@@ -10,4 +10,4 @@
 |relaxed|:relaxed:|smiling face|19|
 |kissing_closed_eyes|:kissing_closed_eyes:|kissing face with closed eyes|20|
 |kissing_smiling_eyes|:kissing_smiling_eyes:|kissing face with smiling eyes|21|
-|||⊛ smiling face with tear|22|
+|||smiling face with tear|22|

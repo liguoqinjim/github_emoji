@@ -2,5 +2,5 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|currency_exchange|:currency_exchange:|currency exchange|1432|
-|heavy_dollar_sign|:heavy_dollar_sign:|heavy dollar sign|1433|
+|currency_exchange|:currency_exchange:|currency exchange|1439|
+|heavy_dollar_sign|:heavy_dollar_sign:|heavy dollar sign|1440|

@@ -2,22 +2,22 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|grapes|:grapes:|grapes|643|
-|melon|:melon:|melon|644|
-|watermelon|:watermelon:|watermelon|645|
-|mandarin|:mandarin:|tangerine|646|
-|lemon|:lemon:|lemon|647|
-|banana|:banana:|banana|648|
-|pineapple|:pineapple:|pineapple|649|
-|mango|:mango:|mango|650|
-|apple|:apple:|red apple|651|
-|green_apple|:green_apple:|green apple|652|
-|pear|:pear:|pear|653|
-|peach|:peach:|peach|654|
-|cherries|:cherries:|cherries|655|
-|strawberry|:strawberry:|strawberry|656|
-|||⊛ blueberries|657|
-|kiwi_fruit|:kiwi_fruit:|kiwi fruit|658|
-|tomato|:tomato:|tomato|659|
-|||⊛ olive|660|
-|coconut|:coconut:|coconut|661|
+|grapes|:grapes:|grapes|650|
+|melon|:melon:|melon|651|
+|watermelon|:watermelon:|watermelon|652|
+|mandarin|:mandarin:|tangerine|653|
+|lemon|:lemon:|lemon|654|
+|banana|:banana:|banana|655|
+|pineapple|:pineapple:|pineapple|656|
+|mango|:mango:|mango|657|
+|apple|:apple:|red apple|658|
+|green_apple|:green_apple:|green apple|659|
+|pear|:pear:|pear|660|
+|peach|:peach:|peach|661|
+|cherries|:cherries:|cherries|662|
+|strawberry|:strawberry:|strawberry|663|
+|||blueberries|664|
+|kiwi_fruit|:kiwi_fruit:|kiwi fruit|665|
+|tomato|:tomato:|tomato|666|
+|||olive|667|
+|coconut|:coconut:|coconut|668|

@@ -7,8 +7,10 @@
 |neutral_face|:neutral_face:|neutral face|35|
 |expressionless|:expressionless:|expressionless face|36|
 |no_mouth|:no_mouth:|face without mouth|37|
-|smirk|:smirk:|smirking face|38|
-|unamused|:unamused:|unamused face|39|
-|roll_eyes|:roll_eyes:|face with rolling eyes|40|
-|grimacing|:grimacing:|grimacing face|41|
-|lying_face|:lying_face:|lying face|42|
+|||⊛ face in clouds|38|
+|smirk|:smirk:|smirking face|39|
+|unamused|:unamused:|unamused face|40|
+|roll_eyes|:roll_eyes:|face with rolling eyes|41|
+|grimacing|:grimacing:|grimacing face|42|
+|||⊛ face exhaling|43|
+|lying_face|:lying_face:|lying face|44|

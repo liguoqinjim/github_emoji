@@ -2,13 +2,13 @@
 
 |github_emoji_name|github_emoji|short_name|unicode_index|
 |---|---|---|---|
-|moneybag|:moneybag:|money bag|1195|
-|||⊛ coin|1196|
-|yen|:yen:|yen banknote|1197|
-|dollar|:dollar:|dollar banknote|1198|
-|euro|:euro:|euro banknote|1199|
-|pound|:pound:|pound banknote|1200|
-|money_with_wings|:money_with_wings:|money with wings|1201|
-|credit_card|:credit_card:|credit card|1202|
-|receipt|:receipt:|receipt|1203|
-|chart|:chart:|chart increasing with yen|1204|
+|moneybag|:moneybag:|money bag|1202|
+|||coin|1203|
+|yen|:yen:|yen banknote|1204|
+|dollar|:dollar:|dollar banknote|1205|
+|euro|:euro:|euro banknote|1206|
+|pound|:pound:|pound banknote|1207|
+|money_with_wings|:money_with_wings:|money with wings|1208|
+|credit_card|:credit_card:|credit card|1209|
+|receipt|:receipt:|receipt|1210|
+|chart|:chart:|chart increasing with yen|1211|
